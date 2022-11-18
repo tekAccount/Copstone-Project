@@ -1,0 +1,1629 @@
+2022-11-07 15:04:04,883 [main] INFO logger_File - React Appis equal to React App
+2022-11-07 18:41:26,584 [main] INFO logger_File - React Appis equal to React App
+2022-11-07 18:41:27,113 [main] INFO logger_File - user click on sign in Button
+2022-11-07 18:42:29,541 [main] INFO logger_File - React Appis equal to React App
+2022-11-07 18:42:30,047 [main] INFO logger_File - user click on sign in Button
+2022-11-07 18:45:03,526 [main] INFO logger_File - React Appis equal to React App
+2022-11-07 18:45:04,085 [main] INFO logger_File - user click on sign in Button
+2022-11-07 18:45:35,353 [main] INFO logger_File - React Appis equal to React App
+2022-11-07 18:45:35,857 [main] INFO logger_File - user click on sign in Button
+2022-11-07 18:53:55,727 [main] INFO logger_File - React Appis equal to React App
+2022-11-07 18:53:56,233 [main] INFO logger_File - user click on sign in Button
+2022-11-07 18:57:24,775 [main] INFO logger_File - React Appis equal to React App
+2022-11-07 18:57:25,318 [main] INFO logger_File - user click on sign in Button
+2022-11-07 19:02:18,582 [main] INFO logger_File - React Appis equal to React App
+2022-11-07 19:02:19,115 [main] INFO logger_File - user click on sign in Button
+2022-11-07 19:02:54,470 [main] INFO logger_File - React Appis equal to React App
+2022-11-07 19:02:55,021 [main] INFO logger_File - user click on sign in Button
+2022-11-07 19:03:26,741 [main] INFO logger_File - React Appis equal to React App
+2022-11-07 19:03:27,156 [main] INFO logger_File - user click on sign in Button
+2022-11-07 20:42:12,229 [main] INFO logger_File - React Appis equal to React App
+2022-11-07 20:42:12,745 [main] INFO logger_File - user click on sign in Button
+2022-11-07 22:17:25,983 [main] INFO logger_File - React Appis equal to React App
+2022-11-07 22:33:36,869 [main] INFO logger_File - React Appis equal to React App
+2022-11-07 22:33:42,193 [main] INFO logger_File - user entered emailshaheera.gh@gmail.comand passwordUsa@1212
+2022-11-07 22:33:43,020 [main] INFO logger_File - user click on login button
+2022-11-07 22:33:43,299 [main] INFO logger_File - user should be logged in into Account
+2022-11-08 12:24:12,028 [main] INFO logger_File - React Appis equal to React App
+2022-11-08 12:24:12,818 [main] INFO logger_File - user can click on create new account
+2022-11-08 13:18:25,876 [main] INFO logger_File - React Appis equal to React App
+2022-11-08 13:18:26,373 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-08 13:18:31,524 [main] INFO logger_File - user can click on create new account
+2022-11-08 13:20:29,745 [main] INFO logger_File - React Appis equal to React App
+2022-11-08 13:20:30,303 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-08 13:20:40,368 [main] INFO logger_File - user entered emailshaheera.gh@gmail.comand passwordUsa@1212
+2022-11-08 13:20:45,622 [main] INFO logger_File - user click on login button
+2022-11-08 13:20:50,713 [main] INFO logger_File - user should be logged in into Account
+2022-11-08 14:06:51,428 [main] INFO logger_File - React Appis equal to React App
+2022-11-08 14:06:51,891 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-08 14:06:57,037 [main] INFO logger_File - user can click on create new account
+2022-11-08 14:10:33,446 [main] INFO logger_File - React Appis equal to React App
+2022-11-08 14:10:33,938 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-08 14:10:39,080 [main] INFO logger_File - user can click on create new account
+2022-11-08 14:26:06,932 [main] INFO logger_File - React Appis equal to React App
+2022-11-08 14:26:07,458 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-08 14:26:12,604 [main] INFO logger_File - user can click on create new account
+2022-11-08 14:28:33,307 [main] INFO logger_File - React Appis equal to React App
+2022-11-08 14:28:33,876 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-08 14:28:39,019 [main] INFO logger_File - user can click on create new account
+2022-11-08 14:32:37,519 [main] INFO logger_File - React Appis equal to React App
+2022-11-08 14:32:38,128 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-08 14:32:43,276 [main] INFO logger_File - user can click on create new account
+2022-11-08 14:32:53,778 [main] INFO logger_File - user entered required information
+2022-11-08 14:32:59,010 [main] INFO logger_File - user click on signUp Button
+2022-11-08 14:32:59,583 [main] INFO logger_File - Done
+2022-11-08 14:35:14,959 [main] INFO logger_File - React Appis equal to React App
+2022-11-08 14:35:15,491 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-08 14:35:20,638 [main] INFO logger_File - user can click on create new account
+2022-11-08 14:35:31,046 [main] INFO logger_File - user entered required information
+2022-11-08 14:35:36,320 [main] INFO logger_File - user click on signUp Button
+2022-11-08 14:35:41,375 [main] INFO logger_File - Done
+2022-11-09 12:36:22,851 [main] INFO logger_File - React Appis equal to React App
+2022-11-09 12:36:23,425 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-09 12:36:31,040 [main] INFO logger_File - user entered emailEmailValueand passwordPasswordValue
+2022-11-09 12:46:15,394 [main] INFO logger_File - React Appis equal to React App
+2022-11-09 12:46:15,962 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-09 12:46:26,242 [main] INFO logger_File - user entered emailshaheera.gh@gmail.comand passwordUsa@1212
+2022-11-09 12:46:31,520 [main] INFO logger_File - user click on login button
+2022-11-09 12:46:36,585 [main] INFO logger_File - user should be logged in into Account
+2022-11-09 12:46:42,160 [main] INFO logger_File - user successfully click on account option
+2022-11-09 12:48:51,622 [main] INFO logger_File - React Appis equal to React App
+2022-11-09 12:48:52,209 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-09 12:49:01,904 [main] INFO logger_File - user entered emailshaheera.gh@gmail.comand passwordUsa@1212
+2022-11-09 12:49:07,201 [main] INFO logger_File - user click on login button
+2022-11-09 12:49:12,244 [main] INFO logger_File - user should be logged in into Account
+2022-11-09 12:49:17,954 [main] INFO logger_File - user successfully click on account option
+2022-11-09 12:49:23,551 [main] INFO logger_File - user entered name and password
+2022-11-09 12:49:28,810 [main] INFO logger_File - user can click on update option
+2022-11-09 12:49:33,866 [main] INFO logger_File - user profile updated
+2022-11-09 12:57:09,365 [main] INFO logger_File - React Appis equal to React App
+2022-11-09 12:57:09,921 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-09 12:57:20,063 [main] INFO logger_File - user entered emailshaheera.gh@gmail.comand passwordUsa@1212
+2022-11-09 12:57:25,354 [main] INFO logger_File - user click on login button
+2022-11-09 12:57:30,429 [main] INFO logger_File - user should be logged in into Account
+2022-11-09 12:57:36,093 [main] INFO logger_File - user successfully click on account option
+2022-11-09 12:57:42,918 [main] INFO logger_File - user entered name and password
+2022-11-09 12:57:48,122 [main] INFO logger_File - user can click on update option
+2022-11-09 12:57:53,177 [main] INFO logger_File - user profile updated
+2022-11-09 13:42:02,489 [main] INFO logger_File - React Appis equal to React App
+2022-11-09 13:42:02,969 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-09 13:42:12,972 [main] INFO logger_File - user entered emailshaheera.gh@gmail.comand passwordUsa@1212
+2022-11-09 13:42:18,271 [main] INFO logger_File - user click on login button
+2022-11-09 13:42:23,379 [main] INFO logger_File - user should be logged in into Account
+2022-11-09 13:42:29,006 [main] INFO logger_File - user successfully click on account option
+2022-11-09 13:42:36,244 [main] INFO logger_File - user chanage the password
+2022-11-09 13:42:41,391 [main] INFO logger_File - user click on change password button
+2022-11-09 13:42:41,418 [main] INFO logger_File - password Updated Successfully
+2022-11-09 13:59:17,115 [main] INFO logger_File - React Appis equal to React App
+2022-11-09 13:59:17,703 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-09 13:59:28,008 [main] INFO logger_File - user entered emailshaheera.gh@gmail.comand passwordUsa@1313
+2022-11-09 13:59:33,317 [main] INFO logger_File - user click on login button
+2022-11-09 13:59:38,365 [main] INFO logger_File - user should be logged in into Account
+2022-11-09 13:59:43,967 [main] INFO logger_File - user successfully click on account option
+2022-11-09 13:59:51,499 [main] INFO logger_File - user chanage the password
+2022-11-09 13:59:56,670 [main] INFO logger_File - user click on change password button
+2022-11-09 13:59:56,688 [main] INFO logger_File - password Updated Successfully
+2022-11-10 12:40:34,280 [main] INFO logger_File - React Appis equal to React App
+2022-11-10 12:40:34,835 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-10 12:40:44,781 [main] INFO logger_File - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-10 12:40:50,069 [main] INFO logger_File - user click on login button
+2022-11-10 12:40:55,128 [main] INFO logger_File - user should be logged in into Account
+2022-11-10 12:41:00,760 [main] INFO logger_File - user successfully click on account option
+2022-11-10 12:41:05,894 [main] INFO logger_File - user click on add payment method link
+2022-11-10 12:41:09,272 [main] INFO logger_File - user click on add card button
+2022-11-10 12:41:09,290 [main] INFO logger_File - payment method added successfully
+2022-11-10 12:44:19,913 [main] INFO logger_File - React Appis equal to React App
+2022-11-10 12:44:20,351 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-10 12:44:29,636 [main] INFO logger_File - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-10 12:44:34,967 [main] INFO logger_File - user click on login button
+2022-11-10 12:44:40,058 [main] INFO logger_File - user should be logged in into Account
+2022-11-10 12:44:45,987 [main] INFO logger_File - user successfully click on account option
+2022-11-10 12:44:51,124 [main] INFO logger_File - user click on add payment method link
+2022-11-10 12:44:54,303 [main] INFO logger_File - user click on add card button
+2022-11-10 12:44:54,320 [main] INFO logger_File - payment method added successfully
+2022-11-10 13:27:04,751 [main] INFO logger_File - React Appis equal to React App
+2022-11-10 13:27:05,334 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-10 13:27:13,186 [main] INFO logger_File - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-10 13:27:16,500 [main] INFO logger_File - user click on login button
+2022-11-10 13:27:19,543 [main] INFO logger_File - user should be logged in into Account
+2022-11-10 13:27:23,139 [main] INFO logger_File - user successfully click on account option
+2022-11-10 14:27:17,682 [main] INFO logger_File - React Appis equal to React App
+2022-11-10 14:27:18,218 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-10 14:27:26,013 [main] INFO logger_File - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-10 14:27:29,286 [main] INFO logger_File - user click on login button
+2022-11-10 14:27:32,345 [main] INFO logger_File - user should be logged in into Account
+2022-11-10 14:27:36,236 [main] INFO logger_File - user successfully click on account option
+2022-11-10 14:28:42,949 [main] INFO logger_File - React Appis equal to React App
+2022-11-10 14:28:43,555 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-10 14:28:51,259 [main] INFO logger_File - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-10 14:28:54,556 [main] INFO logger_File - user click on login button
+2022-11-10 14:28:57,624 [main] INFO logger_File - user should be logged in into Account
+2022-11-10 14:29:01,497 [main] INFO logger_File - user successfully click on account option
+2022-11-10 14:29:04,624 [main] INFO logger_File - user click on add payment method link
+2022-11-10 14:29:07,699 [main] INFO logger_File - user click on add card button
+2022-11-10 14:29:07,718 [main] INFO logger_File - payment method added successfully
+2022-11-10 14:30:19,735 [main] INFO logger_File - React Appis equal to React App
+2022-11-10 14:30:20,366 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-10 14:30:28,147 [main] INFO logger_File - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-10 14:30:31,414 [main] INFO logger_File - user click on login button
+2022-11-10 14:30:34,481 [main] INFO logger_File - user should be logged in into Account
+2022-11-10 14:30:38,073 [main] INFO logger_File - user successfully click on account option
+2022-11-10 14:32:22,680 [main] INFO logger_File - React Appis equal to React App
+2022-11-10 14:32:23,290 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-10 14:32:31,106 [main] INFO logger_File - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-10 14:32:34,365 [main] INFO logger_File - user click on login button
+2022-11-10 14:32:37,432 [main] INFO logger_File - user should be logged in into Account
+2022-11-10 14:32:41,024 [main] INFO logger_File - user successfully click on account option
+2022-11-10 14:38:23,283 [main] INFO logger_File - React Appis equal to React App
+2022-11-10 14:38:23,931 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-10 14:38:31,627 [main] INFO logger_File - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-10 14:38:34,908 [main] INFO logger_File - user click on login button
+2022-11-10 14:38:38,011 [main] INFO logger_File - user should be logged in into Account
+2022-11-10 14:38:41,649 [main] INFO logger_File - user successfully click on account option
+2022-11-10 14:41:42,729 [main] INFO logger_File - React Appis equal to React App
+2022-11-10 14:41:43,261 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-10 14:41:51,000 [main] INFO logger_File - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-10 14:41:54,308 [main] INFO logger_File - user click on login button
+2022-11-10 14:41:57,365 [main] INFO logger_File - user should be logged in into Account
+2022-11-10 14:42:01,006 [main] INFO logger_File - user successfully click on account option
+2022-11-10 14:42:04,333 [main] INFO logger_File - User clicked on payment card
+2022-11-10 14:42:07,589 [main] INFO logger_File - user can click on edit button
+2022-11-10 14:42:10,418 [main] INFO logger_File - user can edit credit or debit successfully
+2022-11-10 14:42:13,690 [main] INFO logger_File - user can update succesfully
+2022-11-10 14:42:13,711 [main] INFO logger_File - information successfuly updated
+2022-11-10 14:59:28,197 [main] INFO logger_File - React Appis equal to React App
+2022-11-10 14:59:28,800 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-10 14:59:36,419 [main] INFO logger_File - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-10 14:59:39,704 [main] INFO logger_File - user click on login button
+2022-11-10 14:59:42,754 [main] INFO logger_File - user should be logged in into Account
+2022-11-10 14:59:46,368 [main] INFO logger_File - user successfully click on account option
+2022-11-10 14:59:49,527 [main] INFO logger_File - User clicked on payment card
+2022-11-10 14:59:52,875 [main] INFO logger_File - user can click on edit button
+2022-11-10 14:59:55,505 [main] INFO logger_File - user can edit credit or debit successfully
+2022-11-10 14:59:58,640 [main] INFO logger_File - user can update succesfully
+2022-11-10 14:59:58,659 [main] INFO logger_File - information successfuly updated
+2022-11-10 15:12:09,696 [main] INFO logger_File - React Appis equal to React App
+2022-11-10 15:12:10,208 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-10 15:12:18,193 [main] INFO logger_File - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-10 15:12:21,488 [main] INFO logger_File - user click on login button
+2022-11-10 15:12:24,537 [main] INFO logger_File - user should be logged in into Account
+2022-11-10 15:12:28,165 [main] INFO logger_File - user successfully click on account option
+2022-11-10 15:12:31,363 [main] INFO logger_File - User clicked on payment card
+2022-11-10 15:12:34,696 [main] INFO logger_File - user can click on edit button
+2022-11-10 15:12:37,581 [main] INFO logger_File - user can edit credit or debit successfully
+2022-11-10 15:12:40,805 [main] INFO logger_File - user can update succesfully
+2022-11-10 15:12:40,823 [main] INFO logger_File - information successfuly updated
+2022-11-10 15:20:36,617 [main] INFO logger_File - React Appis equal to React App
+2022-11-10 15:20:37,165 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-10 15:20:45,128 [main] INFO logger_File - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-10 15:20:48,409 [main] INFO logger_File - user click on login button
+2022-11-10 15:20:51,455 [main] INFO logger_File - user should be logged in into Account
+2022-11-10 15:20:55,343 [main] INFO logger_File - user successfully click on account option
+2022-11-10 15:20:58,507 [main] INFO logger_File - User clicked on payment card
+2022-11-10 15:21:02,082 [main] INFO logger_File - user can click on edit button
+2022-11-10 15:21:10,213 [main] INFO logger_File - user can edit credit or debit successfully
+2022-11-10 15:21:13,350 [main] INFO logger_File - user can update succesfully
+2022-11-10 15:21:13,366 [main] INFO logger_File - information successfuly updated
+2022-11-10 15:26:54,769 [main] INFO logger_File - React Appis equal to React App
+2022-11-10 15:26:55,422 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-10 15:27:03,089 [main] INFO logger_File - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-10 15:27:06,352 [main] INFO logger_File - user click on login button
+2022-11-10 15:27:09,421 [main] INFO logger_File - user should be logged in into Account
+2022-11-10 15:27:12,977 [main] INFO logger_File - user successfully click on account option
+2022-11-10 15:27:16,134 [main] INFO logger_File - User clicked on payment card
+2022-11-10 15:27:19,338 [main] INFO logger_File - user can click on edit button
+2022-11-10 15:27:22,171 [main] INFO logger_File - user can edit credit or debit successfully
+2022-11-10 15:27:25,295 [main] INFO logger_File - user can update succesfully
+2022-11-10 15:27:25,311 [main] INFO logger_File - information successfuly updated
+2022-11-10 15:38:53,162 [main] INFO logger_File - React Appis equal to React App
+2022-11-10 15:38:53,712 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-10 15:39:01,351 [main] INFO logger_File - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-10 15:39:04,647 [main] INFO logger_File - user click on login button
+2022-11-10 15:39:07,723 [main] INFO logger_File - user should be logged in into Account
+2022-11-10 15:39:11,376 [main] INFO logger_File - user successfully click on account option
+2022-11-10 15:39:14,545 [main] INFO logger_File - User clicked on payment card
+2022-11-10 15:39:18,031 [main] INFO logger_File - user can click on edit button
+2022-11-10 15:39:23,286 [main] INFO logger_File - user can edit credit or debit successfully
+2022-11-10 15:39:26,515 [main] INFO logger_File - user can update succesfully
+2022-11-10 15:39:26,529 [main] INFO logger_File - information successfuly updated
+2022-11-10 15:44:49,845 [main] INFO logger_File - React Appis equal to React App
+2022-11-10 15:44:50,384 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-10 15:44:56,515 [main] INFO logger_File - user entered emailtest@gmail.comand passwordTest123$
+2022-11-10 15:44:59,818 [main] INFO logger_File - user click on login button
+2022-11-10 15:45:02,902 [main] INFO logger_File - user should be logged in into Account
+2022-11-10 15:45:06,501 [main] INFO logger_File - user successfully click on account option
+2022-11-10 15:48:23,241 [main] INFO logger_File - React Appis equal to React App
+2022-11-10 15:48:23,921 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-10 15:48:29,887 [main] INFO logger_File - user entered emailtest@gmail.comand passwordTest123$
+2022-11-10 15:48:33,143 [main] INFO logger_File - user click on login button
+2022-11-10 15:48:36,218 [main] INFO logger_File - user should be logged in into Account
+2022-11-10 15:48:39,889 [main] INFO logger_File - user successfully click on account option
+2022-11-10 15:52:35,614 [main] INFO logger_File - React Appis equal to React App
+2022-11-10 15:52:36,093 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-10 15:52:42,341 [main] INFO logger_File - user entered emailtest@gmail.comand passwordTest123$
+2022-11-10 15:52:45,672 [main] INFO logger_File - user click on login button
+2022-11-10 15:52:48,742 [main] INFO logger_File - user should be logged in into Account
+2022-11-10 15:52:52,369 [main] INFO logger_File - user successfully click on account option
+2022-11-10 15:52:55,533 [main] INFO logger_File - User clicked on payment card
+2022-11-10 15:53:00,859 [main] INFO logger_File - user can click on edit button
+2022-11-10 15:53:04,826 [main] INFO logger_File - user can edit credit or debit successfully
+2022-11-10 15:53:07,962 [main] INFO logger_File - user can update succesfully
+2022-11-10 15:53:07,979 [main] INFO logger_File - information successfuly updated
+2022-11-10 16:30:29,535 [main] INFO logger_File - React Appis equal to React App
+2022-11-10 16:30:30,108 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-10 16:30:36,055 [main] INFO logger_File - user entered emailtest@gmail.comand passwordTest123$
+2022-11-10 16:30:39,358 [main] INFO logger_File - user click on login button
+2022-11-10 16:30:42,441 [main] INFO logger_File - user should be logged in into Account
+2022-11-10 16:30:45,993 [main] INFO logger_File - user successfully click on account option
+2022-11-10 16:30:49,102 [main] INFO logger_File - User clicked on payment card
+2022-11-10 16:30:54,364 [main] INFO logger_File - user can click on edit button
+2022-11-10 16:30:59,561 [main] INFO logger_File - user can edit credit or debit successfully
+2022-11-10 16:31:02,706 [main] INFO logger_File - user can update succesfully
+2022-11-10 16:31:02,720 [main] INFO logger_File - information successfuly updated
+2022-11-10 16:54:07,257 [main] INFO logger_File - React Appis equal to React App
+2022-11-10 16:54:07,804 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-10 16:54:15,795 [main] INFO logger_File - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-10 16:54:19,090 [main] INFO logger_File - user click on login button
+2022-11-10 16:54:22,166 [main] INFO logger_File - user should be logged in into Account
+2022-11-10 16:54:25,745 [main] INFO logger_File - user successfully click on account option
+2022-11-10 16:56:20,180 [main] INFO logger_File - React Appis equal to React App
+2022-11-10 16:56:20,722 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-10 16:56:28,636 [main] INFO logger_File - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-10 16:56:31,894 [main] INFO logger_File - user click on login button
+2022-11-10 16:56:34,945 [main] INFO logger_File - user should be logged in into Account
+2022-11-10 16:56:38,572 [main] INFO logger_File - user successfully click on account option
+2022-11-10 16:56:41,865 [main] INFO logger_File - User clicked on payment card
+2022-11-10 16:56:47,105 [main] INFO logger_File - user can click on edit button
+2022-11-10 16:56:48,909 [main] INFO logger_File - user can edit credit or debit successfully
+2022-11-10 16:56:52,095 [main] INFO logger_File - user can update succesfully
+2022-11-10 16:56:52,131 [main] INFO logger_File - information successfuly updated
+2022-11-10 17:05:50,855 [main] INFO logger_File - React Appis equal to React App
+2022-11-10 17:05:51,415 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-10 17:05:58,565 [main] INFO logger_File - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-10 17:06:01,866 [main] INFO logger_File - user click on login button
+2022-11-10 17:06:04,933 [main] INFO logger_File - user should be logged in into Account
+2022-11-10 17:06:08,480 [main] INFO logger_File - user successfully click on account option
+2022-11-10 17:06:11,664 [main] INFO logger_File - User clicked on payment card
+2022-11-10 17:06:17,134 [main] INFO logger_File - user can click on edit button
+2022-11-10 17:06:18,840 [main] INFO logger_File - user can edit credit or debit successfully
+2022-11-10 17:06:22,025 [main] INFO logger_File - user can update succesfully
+2022-11-10 17:06:22,039 [main] INFO logger_File - information successfuly updated
+2022-11-10 17:09:05,464 [main] INFO logger_File - React Appis equal to React App
+2022-11-10 17:09:05,970 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-10 17:09:14,047 [main] INFO logger_File - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-10 17:09:17,339 [main] INFO logger_File - user click on login button
+2022-11-10 17:09:20,379 [main] INFO logger_File - user should be logged in into Account
+2022-11-10 17:09:24,323 [main] INFO logger_File - user successfully click on account option
+2022-11-10 17:09:27,590 [main] INFO logger_File - User clicked on payment card
+2022-11-10 17:09:32,814 [main] INFO logger_File - user can click on edit button
+2022-11-10 17:09:35,762 [main] INFO logger_File - user can edit credit or debit successfully
+2022-11-10 17:09:38,964 [main] INFO logger_File - user can update succesfully
+2022-11-10 17:09:38,980 [main] INFO logger_File - information successfuly updated
+2022-11-10 17:28:09,330 [main] INFO logger_File - React Appis equal to React App
+2022-11-10 17:28:09,857 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-10 17:28:17,714 [main] INFO logger_File - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-10 17:28:20,995 [main] INFO logger_File - user click on login button
+2022-11-10 17:28:24,066 [main] INFO logger_File - user should be logged in into Account
+2022-11-10 17:28:27,666 [main] INFO logger_File - user successfully click on account option
+2022-11-10 17:28:30,832 [main] INFO logger_File - User clicked on payment card
+2022-11-10 17:28:34,291 [main] INFO logger_File - user can click on edit button
+2022-11-10 17:28:37,352 [main] INFO logger_File - user can edit credit or debit successfully
+2022-11-10 17:28:40,543 [main] INFO logger_File - user can update succesfully
+2022-11-10 17:28:40,559 [main] INFO logger_File - information successfuly updated
+2022-11-10 17:31:11,868 [main] INFO logger_File - React Appis equal to React App
+2022-11-10 17:31:12,454 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-10 17:31:20,718 [main] INFO logger_File - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-10 17:31:23,985 [main] INFO logger_File - user click on login button
+2022-11-10 17:31:27,026 [main] INFO logger_File - user should be logged in into Account
+2022-11-10 17:31:30,666 [main] INFO logger_File - user successfully click on account option
+2022-11-10 17:31:33,851 [main] INFO logger_File - User clicked on payment card
+2022-11-10 17:31:37,168 [main] INFO logger_File - user can click on edit button
+2022-11-10 17:31:40,200 [main] INFO logger_File - user can edit credit or debit successfully
+2022-11-10 17:31:43,369 [main] INFO logger_File - user can update succesfully
+2022-11-10 17:31:43,384 [main] INFO logger_File - information successfuly updated
+2022-11-10 17:32:40,197 [main] INFO logger_File - React Appis equal to React App
+2022-11-10 17:32:40,739 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-10 17:32:48,441 [main] INFO logger_File - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-10 17:32:51,703 [main] INFO logger_File - user click on login button
+2022-11-10 17:32:54,762 [main] INFO logger_File - user should be logged in into Account
+2022-11-10 17:32:58,349 [main] INFO logger_File - user successfully click on account option
+2022-11-10 17:33:01,509 [main] INFO logger_File - User clicked on payment card
+2022-11-10 17:33:04,996 [main] INFO logger_File - user can click on edit button
+2022-11-10 17:33:06,964 [main] INFO logger_File - user can edit credit or debit successfully
+2022-11-10 17:33:10,168 [main] INFO logger_File - user can update succesfully
+2022-11-10 17:33:10,190 [main] INFO logger_File - information successfuly updated
+2022-11-10 17:37:49,087 [main] INFO logger_File - React Appis equal to React App
+2022-11-10 17:37:49,750 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-10 17:37:57,112 [main] INFO logger_File - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-10 17:38:00,366 [main] INFO logger_File - user click on login button
+2022-11-10 17:38:03,468 [main] INFO logger_File - user should be logged in into Account
+2022-11-10 17:38:07,080 [main] INFO logger_File - user successfully click on account option
+2022-11-10 17:38:10,238 [main] INFO logger_File - user click on add payment method link
+2022-11-10 17:38:13,281 [main] INFO logger_File - user click on add card button
+2022-11-10 17:38:13,302 [main] INFO logger_File - payment method added successfully
+2022-11-10 17:41:04,404 [main] INFO logger_File - React Appis equal to React App
+2022-11-10 17:41:04,970 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-10 17:41:12,824 [main] INFO logger_File - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-10 17:41:16,123 [main] INFO logger_File - user click on login button
+2022-11-10 17:41:19,182 [main] INFO logger_File - user should be logged in into Account
+2022-11-10 17:41:22,777 [main] INFO logger_File - user successfully click on account option
+2022-11-10 17:41:25,922 [main] INFO logger_File - user click on add payment method link
+2022-11-10 17:41:28,946 [main] INFO logger_File - user click on add card button
+2022-11-10 17:41:28,973 [main] INFO logger_File - payment method added successfully
+2022-11-10 17:42:19,626 [main] INFO logger_File - React Appis equal to React App
+2022-11-10 17:42:20,244 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-10 17:42:28,337 [main] INFO logger_File - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-10 17:42:31,585 [main] INFO logger_File - user click on login button
+2022-11-10 17:42:34,641 [main] INFO logger_File - user should be logged in into Account
+2022-11-10 17:42:38,210 [main] INFO logger_File - user successfully click on account option
+2022-11-10 17:42:41,541 [main] INFO logger_File - User clicked on payment card
+2022-11-10 17:42:44,851 [main] INFO logger_File - user can click on edit button
+2022-11-10 17:42:47,839 [main] INFO logger_File - user can edit credit or debit successfully
+2022-11-10 17:42:51,011 [main] INFO logger_File - user can update succesfully
+2022-11-10 17:42:51,025 [main] INFO logger_File - information successfuly updated
+2022-11-10 17:49:27,675 [main] INFO logger_File - React Appis equal to React App
+2022-11-10 17:49:28,297 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-10 17:49:36,217 [main] INFO logger_File - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-10 17:49:39,505 [main] INFO logger_File - user click on login button
+2022-11-10 17:49:42,553 [main] INFO logger_File - user should be logged in into Account
+2022-11-10 17:49:46,123 [main] INFO logger_File - user successfully click on account option
+2022-11-10 17:49:49,413 [main] INFO logger_File - User clicked on payment card
+2022-11-10 17:49:52,664 [main] INFO logger_File - user can click on edit button
+2022-11-10 17:49:55,728 [main] INFO logger_File - user can edit credit or debit successfully
+2022-11-10 17:49:58,937 [main] INFO logger_File - user can update succesfully
+2022-11-10 17:49:58,952 [main] INFO logger_File - information successfuly updated
+2022-11-10 17:53:40,201 [main] INFO logger_File - React Appis equal to React App
+2022-11-10 17:53:40,815 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-10 17:53:48,500 [main] INFO logger_File - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-10 17:53:51,752 [main] INFO logger_File - user click on login button
+2022-11-10 17:53:54,820 [main] INFO logger_File - user should be logged in into Account
+2022-11-10 17:53:58,717 [main] INFO logger_File - user successfully click on account option
+2022-11-10 17:54:01,895 [main] INFO logger_File - User clicked on payment card
+2022-11-10 17:54:05,103 [main] INFO logger_File - user can click on edit button
+2022-11-10 17:54:08,367 [main] INFO logger_File - user can edit credit or debit successfully
+2022-11-10 17:54:11,572 [main] INFO logger_File - user can update succesfully
+2022-11-10 17:54:11,587 [main] INFO logger_File - information successfuly updated
+2022-11-10 17:59:42,614 [main] INFO logger_File - React Appis equal to React App
+2022-11-10 18:11:28,480 [main] INFO logger_File - React Appis equal to React App
+2022-11-10 18:11:29,018 [main] INFO logger_File - user clicked on signin option successfully
+2022-11-10 18:11:36,864 [main] INFO logger_File - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-10 18:11:40,186 [main] INFO logger_File - user click on login button
+2022-11-10 18:11:43,238 [main] INFO logger_File - user should be logged in into Account
+2022-11-10 18:11:46,830 [main] INFO logger_File - user successfully click on account option
+2022-11-10 18:11:49,988 [main] INFO logger_File - User clicked on payment card
+2022-11-10 18:11:53,364 [main] INFO logger_File - user can click on edit button
+2022-11-10 18:11:56,432 [main] INFO logger_File - user can edit credit or debit successfully
+2022-11-10 18:11:59,611 [main] INFO logger_File - user can update succesfully
+2022-11-10 18:11:59,626 [main] INFO logger_File - information successfuly updated
+2022-11-10 22:01:13,746 [main] INFO logger_file - React Appis equal to React App
+2022-11-10 22:01:14,464 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-10 22:01:21,611 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-10 22:01:24,852 [main] INFO logger_file - user click on login button
+2022-11-10 22:01:27,936 [main] INFO logger_file - user should be logged in into Account
+2022-11-10 22:01:31,620 [main] INFO logger_file - user successfully click on account option
+2022-11-10 22:01:34,780 [main] INFO logger_file - User clicked on payment card
+2022-11-10 22:01:38,005 [main] INFO logger_file - user can click on edit button
+2022-11-10 22:01:40,750 [main] INFO logger_file - user can edit credit or debit successfully
+2022-11-10 22:01:44,008 [main] INFO logger_file - user can update succesfully
+2022-11-10 22:01:44,022 [main] INFO logger_file - information successfuly updated
+2022-11-10 22:05:56,969 [main] INFO logger_file - React Appis equal to React App
+2022-11-10 22:05:57,588 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-10 22:06:05,099 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-10 22:06:08,343 [main] INFO logger_file - user click on login button
+2022-11-10 22:06:11,421 [main] INFO logger_file - user should be logged in into Account
+2022-11-10 22:06:15,327 [main] INFO logger_file - user successfully click on account option
+2022-11-10 22:06:18,486 [main] INFO logger_file - User clicked on payment card
+2022-11-10 22:06:22,560 [main] INFO logger_file - user can click on edit button
+2022-11-10 22:06:24,452 [main] INFO logger_file - user can edit credit or debit successfully
+2022-11-10 22:06:27,700 [main] INFO logger_file - user can update succesfully
+2022-11-10 22:06:27,725 [main] INFO logger_file - information successfuly updated
+2022-11-10 22:08:47,628 [main] INFO logger_file - React Appis equal to React App
+2022-11-10 22:08:48,139 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-10 22:08:55,861 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-10 22:08:59,162 [main] INFO logger_file - user click on login button
+2022-11-10 22:09:02,211 [main] INFO logger_file - user should be logged in into Account
+2022-11-10 22:09:05,804 [main] INFO logger_file - user successfully click on account option
+2022-11-10 22:09:08,984 [main] INFO logger_file - User clicked on payment card
+2022-11-10 22:09:12,200 [main] INFO logger_file - user can click on edit button
+2022-11-10 22:09:15,475 [main] INFO logger_file - user can edit credit or debit successfully
+2022-11-10 22:09:18,701 [main] INFO logger_file - user can update succesfully
+2022-11-10 22:09:18,717 [main] INFO logger_file - information successfuly updated
+2022-11-10 22:10:54,876 [main] INFO logger_file - React Appis equal to React App
+2022-11-10 22:10:55,419 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-10 22:11:03,011 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-10 22:11:06,257 [main] INFO logger_file - user click on login button
+2022-11-10 22:11:09,320 [main] INFO logger_file - user should be logged in into Account
+2022-11-10 22:11:12,941 [main] INFO logger_file - user successfully click on account option
+2022-11-10 22:11:16,117 [main] INFO logger_file - User clicked on payment card
+2022-11-10 22:11:19,320 [main] INFO logger_file - user can click on edit button
+2022-11-10 22:11:30,219 [main] INFO logger_file - user can edit credit or debit successfully
+2022-11-10 22:11:33,429 [main] INFO logger_file - user can update succesfully
+2022-11-10 22:11:33,445 [main] INFO logger_file - information successfuly updated
+2022-11-12 10:31:28,255 [main] INFO logger_file - React Appis equal to React App
+2022-11-12 10:31:28,573 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-12 10:31:31,844 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-12 10:31:34,947 [main] INFO logger_file - user click on login button
+2022-11-12 10:31:38,006 [main] INFO logger_file - user should be logged in into Account
+2022-11-12 10:31:41,348 [main] INFO logger_file - user successfully click on account option
+2022-11-12 10:31:44,452 [main] INFO logger_file - User clicked on payment card
+2022-11-12 10:31:47,557 [main] INFO logger_file - user can click on edit button
+2022-11-12 10:31:57,428 [main] INFO logger_file - user can edit credit or debit successfully
+2022-11-12 10:32:00,528 [main] INFO logger_file - user can update succesfully
+2022-11-12 10:32:00,556 [main] INFO logger_file - information successfuly updated
+2022-11-12 11:34:53,005 [main] INFO logger_file - React Appis equal to React App
+2022-11-12 11:34:53,389 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-12 11:34:56,698 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-12 11:34:59,792 [main] INFO logger_file - user click on login button
+2022-11-12 11:35:02,851 [main] INFO logger_file - user should be logged in into Account
+2022-11-12 11:35:06,171 [main] INFO logger_file - user successfully click on account option
+2022-11-12 11:35:09,270 [main] INFO logger_file - User clicked on payment card
+2022-11-12 11:35:12,371 [main] INFO logger_file - user can click on edit button
+2022-11-12 11:35:22,112 [main] INFO logger_file - user can edit credit or debit successfully
+2022-11-12 11:35:25,235 [main] INFO logger_file - user can update succesfully
+2022-11-12 11:35:25,259 [main] INFO logger_file - information successfuly updated
+2022-11-12 11:36:25,233 [main] INFO logger_file - React Appis equal to React App
+2022-11-12 11:36:25,612 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-12 11:36:28,881 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-12 11:36:31,996 [main] INFO logger_file - user click on login button
+2022-11-12 11:36:35,058 [main] INFO logger_file - user should be logged in into Account
+2022-11-12 11:36:38,382 [main] INFO logger_file - user successfully click on account option
+2022-11-12 11:38:43,781 [main] INFO logger_file - React Appis equal to React App
+2022-11-12 11:38:44,155 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-12 11:38:47,446 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-12 11:38:50,543 [main] INFO logger_file - user click on login button
+2022-11-12 11:38:53,587 [main] INFO logger_file - user should be logged in into Account
+2022-11-12 11:38:56,922 [main] INFO logger_file - user successfully click on account option
+2022-11-12 11:39:00,051 [main] INFO logger_file - User clicked on payment card
+2022-11-12 11:39:03,137 [main] INFO logger_file - user can click on edit button
+2022-11-12 11:39:12,827 [main] INFO logger_file - user can edit credit or debit successfully
+2022-11-12 11:39:15,937 [main] INFO logger_file - user can update succesfully
+2022-11-12 11:39:15,971 [main] INFO logger_file - information successfuly updated
+2022-11-12 11:43:44,566 [main] INFO logger_file - React Appis equal to React App
+2022-11-12 11:43:44,961 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-12 11:43:48,241 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-12 11:43:51,354 [main] INFO logger_file - user click on login button
+2022-11-12 11:43:54,401 [main] INFO logger_file - user should be logged in into Account
+2022-11-12 11:43:57,735 [main] INFO logger_file - user successfully click on account option
+2022-11-12 11:44:00,824 [main] INFO logger_file - User clicked on payment card
+2022-11-12 11:44:03,923 [main] INFO logger_file - user can click on edit button
+2022-11-12 11:44:13,648 [main] INFO logger_file - user can edit credit or debit successfully
+2022-11-12 11:44:16,737 [main] INFO logger_file - user can update succesfully
+2022-11-12 11:44:16,763 [main] INFO logger_file - information successfuly updated
+2022-11-12 11:47:04,787 [main] INFO logger_file - React Appis equal to React App
+2022-11-12 11:47:05,458 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-12 11:47:08,783 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-12 11:47:11,881 [main] INFO logger_file - user click on login button
+2022-11-12 11:47:14,939 [main] INFO logger_file - user should be logged in into Account
+2022-11-12 11:47:18,282 [main] INFO logger_file - user successfully click on account option
+2022-11-12 11:47:21,379 [main] INFO logger_file - User clicked on payment card
+2022-11-12 11:47:24,491 [main] INFO logger_file - user can click on edit button
+2022-11-12 11:47:34,237 [main] INFO logger_file - user can edit credit or debit successfully
+2022-11-12 11:47:37,358 [main] INFO logger_file - user can update succesfully
+2022-11-12 11:47:37,379 [main] INFO logger_file - information successfuly updated
+2022-11-12 11:50:23,889 [main] INFO logger_file - React Appis equal to React App
+2022-11-12 11:50:24,333 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-12 11:50:27,615 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-12 11:50:30,723 [main] INFO logger_file - user click on login button
+2022-11-12 11:50:33,763 [main] INFO logger_file - user should be logged in into Account
+2022-11-12 11:50:37,124 [main] INFO logger_file - user successfully click on account option
+2022-11-12 11:50:40,218 [main] INFO logger_file - User clicked on payment card
+2022-11-12 11:50:43,362 [main] INFO logger_file - user can click on edit button
+2022-11-12 11:50:53,179 [main] INFO logger_file - user can edit credit or debit successfully
+2022-11-12 11:50:56,358 [main] INFO logger_file - user can update succesfully
+2022-11-12 11:50:56,390 [main] INFO logger_file - information successfuly updated
+2022-11-12 12:32:54,776 [main] INFO logger_file - React Appis equal to React App
+2022-11-12 12:32:55,292 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-12 12:32:58,556 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-12 12:33:01,655 [main] INFO logger_file - user click on login button
+2022-11-12 12:33:04,719 [main] INFO logger_file - user should be logged in into Account
+2022-11-12 12:33:08,084 [main] INFO logger_file - user successfully click on account option
+2022-11-12 12:33:11,171 [main] INFO logger_file - User clicked on payment card
+2022-11-12 12:33:14,299 [main] INFO logger_file - user can click on edit button
+2022-11-12 12:33:23,974 [main] INFO logger_file - user can edit credit or debit successfully
+2022-11-12 12:33:27,078 [main] INFO logger_file - user can update succesfully
+2022-11-12 12:33:27,106 [main] INFO logger_file - information successfuly updated
+2022-11-12 12:36:39,166 [main] INFO logger_file - React Appis equal to React App
+2022-11-12 12:36:39,674 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-12 12:36:42,945 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-12 12:36:46,035 [main] INFO logger_file - user click on login button
+2022-11-12 12:36:49,084 [main] INFO logger_file - user should be logged in into Account
+2022-11-12 12:36:52,403 [main] INFO logger_file - user successfully click on account option
+2022-11-12 12:36:55,473 [main] INFO logger_file - user successfully click on account option
+2022-11-12 12:36:58,809 [main] INFO logger_file - user entered name and password
+2022-11-12 12:37:01,926 [main] INFO logger_file - user can click on update option
+2022-11-12 12:37:04,966 [main] INFO logger_file - user profile updated
+2022-11-13 10:14:20,265 [main] INFO logger_file - React Appis equal to React App
+2022-11-13 10:14:20,666 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-13 10:14:23,942 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-13 10:14:27,049 [main] INFO logger_file - user click on login button
+2022-11-13 10:14:30,106 [main] INFO logger_file - user should be logged in into Account
+2022-11-13 10:14:33,522 [main] INFO logger_file - user successfully click on account option
+2022-11-13 10:14:36,618 [main] INFO logger_file - user successfully click on account option
+2022-11-13 10:14:39,945 [main] INFO logger_file - user entered name and password
+2022-11-13 10:14:43,068 [main] INFO logger_file - user can click on update option
+2022-11-13 10:14:46,113 [main] INFO logger_file - user profile updated
+2022-11-13 10:15:57,949 [main] INFO logger_file - React Appis equal to React App
+2022-11-13 10:15:58,476 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-13 10:16:01,757 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-13 10:16:04,877 [main] INFO logger_file - user click on login button
+2022-11-13 10:16:07,936 [main] INFO logger_file - user should be logged in into Account
+2022-11-13 10:16:11,291 [main] INFO logger_file - user successfully click on account option
+2022-11-13 10:16:14,396 [main] INFO logger_file - User clicked on payment card
+2022-11-13 10:16:17,508 [main] INFO logger_file - user can click on edit button
+2022-11-13 10:16:27,150 [main] INFO logger_file - user can edit credit or debit successfully
+2022-11-13 10:16:30,279 [main] INFO logger_file - user can update succesfully
+2022-11-13 10:16:30,310 [main] INFO logger_file - information successfuly updated
+2022-11-13 10:34:43,540 [main] INFO logger_file - React Appis equal to React App
+2022-11-13 10:34:43,978 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-13 10:34:47,244 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-13 10:34:50,347 [main] INFO logger_file - user click on login button
+2022-11-13 10:34:53,404 [main] INFO logger_file - user should be logged in into Account
+2022-11-13 10:34:56,763 [main] INFO logger_file - user successfully click on account option
+2022-11-13 10:34:59,852 [main] INFO logger_file - User clicked on payment card
+2022-11-13 10:35:02,947 [main] INFO logger_file - remove the card
+2022-11-13 10:35:02,975 [main] INFO logger_file - payemtn detials removed
+2022-11-13 10:37:27,595 [main] INFO logger_file - React Appis equal to React App
+2022-11-13 10:37:27,973 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-13 10:37:31,256 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-13 10:37:34,357 [main] INFO logger_file - user click on login button
+2022-11-13 10:37:37,396 [main] INFO logger_file - user should be logged in into Account
+2022-11-13 10:37:40,775 [main] INFO logger_file - user successfully click on account option
+2022-11-13 11:50:22,798 [main] INFO logger_file - React Appis equal to React App
+2022-11-13 11:50:23,223 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-13 11:50:26,508 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-13 11:50:29,624 [main] INFO logger_file - user click on login button
+2022-11-13 11:50:32,680 [main] INFO logger_file - user should be logged in into Account
+2022-11-13 11:50:36,034 [main] INFO logger_file - user successfully click on account option
+2022-11-13 11:56:30,304 [main] INFO logger_file - React Appis equal to React App
+2022-11-13 11:56:30,758 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-13 11:56:34,425 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-13 11:56:37,540 [main] INFO logger_file - user click on login button
+2022-11-13 11:56:40,590 [main] INFO logger_file - user should be logged in into Account
+2022-11-13 11:56:43,951 [main] INFO logger_file - user successfully click on account option
+2022-11-13 11:56:47,072 [main] INFO logger_file - user click on add address
+2022-11-13 12:00:01,146 [main] INFO logger_file - React Appis equal to React App
+2022-11-13 12:00:02,265 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-13 12:00:05,534 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-13 12:00:08,651 [main] INFO logger_file - user click on login button
+2022-11-13 12:00:11,692 [main] INFO logger_file - user should be logged in into Account
+2022-11-13 12:00:15,087 [main] INFO logger_file - user successfully click on account option
+2022-11-13 12:00:18,221 [main] INFO logger_file - user click on add address
+2022-11-13 12:00:22,359 [main] INFO logger_file - user click on addres button
+2022-11-13 12:00:22,412 [main] INFO logger_file - user should added address successfully
+2022-11-13 12:08:11,954 [main] INFO logger_file - React Appis equal to React App
+2022-11-13 12:08:12,386 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-13 12:08:15,654 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-13 12:08:18,751 [main] INFO logger_file - user click on login button
+2022-11-13 12:08:21,798 [main] INFO logger_file - user should be logged in into Account
+2022-11-13 12:08:25,174 [main] INFO logger_file - user successfully click on account option
+2022-11-13 12:08:28,266 [main] INFO logger_file - user click on add payment method link
+2022-11-13 12:08:28,850 [main] INFO logger_file - user click on add card button
+2022-11-13 12:08:28,874 [main] INFO logger_file - payment method added successfully
+2022-11-13 12:12:04,871 [main] INFO logger_file - React Appis equal to React App
+2022-11-13 12:12:05,300 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-13 12:12:08,602 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-13 12:12:11,705 [main] INFO logger_file - user click on login button
+2022-11-13 12:12:14,753 [main] INFO logger_file - user should be logged in into Account
+2022-11-13 12:12:18,135 [main] INFO logger_file - user successfully click on account option
+2022-11-13 12:16:23,854 [main] INFO logger_file - React Appis equal to React App
+2022-11-13 12:16:24,466 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-13 12:16:27,938 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-13 12:16:31,029 [main] INFO logger_file - user click on login button
+2022-11-13 12:16:34,088 [main] INFO logger_file - user should be logged in into Account
+2022-11-13 12:16:37,460 [main] INFO logger_file - user successfully click on account option
+2022-11-13 12:16:40,548 [main] INFO logger_file - User clicked on payment card
+2022-11-13 12:16:43,650 [main] INFO logger_file - user can click on edit button
+2022-11-13 12:16:53,361 [main] INFO logger_file - user can edit credit or debit successfully
+2022-11-13 12:16:56,472 [main] INFO logger_file - user can update succesfully
+2022-11-13 12:16:56,498 [main] INFO logger_file - information successfuly updated
+2022-11-13 12:19:10,565 [main] INFO logger_file - React Appis equal to React App
+2022-11-13 12:19:10,935 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-13 12:19:14,196 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-13 12:19:17,297 [main] INFO logger_file - user click on login button
+2022-11-13 12:19:20,340 [main] INFO logger_file - user should be logged in into Account
+2022-11-13 12:19:23,701 [main] INFO logger_file - user successfully click on account option
+2022-11-13 12:19:26,801 [main] INFO logger_file - User clicked on payment card
+2022-11-13 12:19:29,892 [main] INFO logger_file - remove the card
+2022-11-13 12:19:32,923 [main] INFO logger_file - payemtn detials removed
+2022-11-13 12:20:31,526 [main] INFO logger_file - React Appis equal to React App
+2022-11-13 12:20:31,919 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-13 12:20:35,174 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-13 12:20:38,268 [main] INFO logger_file - user click on login button
+2022-11-13 12:20:41,315 [main] INFO logger_file - user should be logged in into Account
+2022-11-13 12:20:44,735 [main] INFO logger_file - user successfully click on account option
+2022-11-13 12:20:47,838 [main] INFO logger_file - user click on add address
+2022-11-13 12:20:51,711 [main] INFO logger_file - user click on addres button
+2022-11-13 12:20:51,746 [main] INFO logger_file - user should added address successfully
+2022-11-13 14:46:24,529 [main] INFO logger_file - React Appis equal to React App
+2022-11-13 14:46:24,923 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-13 14:46:28,204 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-13 14:46:31,307 [main] INFO logger_file - user click on login button
+2022-11-13 14:46:34,360 [main] INFO logger_file - user should be logged in into Account
+2022-11-13 14:46:37,766 [main] INFO logger_file - user successfully click on account option
+2022-11-13 14:46:40,857 [main] INFO logger_file - user click on add payment method link
+2022-11-13 14:46:41,527 [main] INFO logger_file - user click on add card button
+2022-11-13 14:46:41,558 [main] INFO logger_file - payment method added successfully
+2022-11-13 15:02:12,465 [main] INFO logger_file - React Appis equal to React App
+2022-11-13 15:02:12,880 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-13 15:02:16,169 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-13 15:02:19,283 [main] INFO logger_file - user click on login button
+2022-11-13 15:02:22,340 [main] INFO logger_file - user should be logged in into Account
+2022-11-13 15:02:25,769 [main] INFO logger_file - user successfully click on account option
+2022-11-13 15:02:28,878 [main] INFO logger_file - user click on add payment method link
+2022-11-13 15:02:29,698 [main] INFO logger_file - user click on add card button
+2022-11-13 15:02:29,736 [main] INFO logger_file - payment method added successfully
+2022-11-13 15:03:10,294 [main] INFO logger_file - React Appis equal to React App
+2022-11-13 15:03:10,720 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-13 15:03:14,023 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-13 15:03:17,121 [main] INFO logger_file - user click on login button
+2022-11-13 15:03:20,163 [main] INFO logger_file - user should be logged in into Account
+2022-11-13 15:03:23,566 [main] INFO logger_file - user successfully click on account option
+2022-11-13 15:07:57,011 [main] INFO logger_file - React Appis equal to React App
+2022-11-13 15:07:57,841 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-13 15:08:01,200 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-13 15:08:04,311 [main] INFO logger_file - user click on login button
+2022-11-13 15:08:07,347 [main] INFO logger_file - user should be logged in into Account
+2022-11-13 15:08:10,780 [main] INFO logger_file - user successfully click on account option
+2022-11-13 15:08:13,886 [main] INFO logger_file - User clicked on payment card
+2022-11-13 15:08:17,022 [main] INFO logger_file - user can click on edit button
+2022-11-13 15:08:26,951 [main] INFO logger_file - user can edit credit or debit successfully
+2022-11-13 15:08:30,093 [main] INFO logger_file - user can update succesfully
+2022-11-13 15:08:30,138 [main] INFO logger_file - information successfuly updated
+2022-11-13 15:11:03,749 [main] INFO logger_file - React Appis equal to React App
+2022-11-13 15:11:04,365 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-13 15:11:07,637 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-13 15:11:10,750 [main] INFO logger_file - user click on login button
+2022-11-13 15:11:13,793 [main] INFO logger_file - user should be logged in into Account
+2022-11-13 15:11:17,221 [main] INFO logger_file - user successfully click on account option
+2022-11-13 15:11:20,311 [main] INFO logger_file - user click on add payment method link
+2022-11-13 15:11:20,956 [main] INFO logger_file - user click on add card button
+2022-11-13 15:11:20,985 [main] INFO logger_file - payment method added successfully
+2022-11-13 15:11:25,143 [main] INFO logger_file - React Appis equal to React App
+2022-11-13 15:11:25,701 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-13 15:11:29,057 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-13 15:11:32,163 [main] INFO logger_file - user click on login button
+2022-11-13 15:11:35,211 [main] INFO logger_file - user should be logged in into Account
+2022-11-13 15:11:38,605 [main] INFO logger_file - user successfully click on account option
+2022-11-13 15:11:41,695 [main] INFO logger_file - User clicked on payment card
+2022-11-13 15:11:44,802 [main] INFO logger_file - user can click on edit button
+2022-11-13 15:11:54,480 [main] INFO logger_file - user can edit credit or debit successfully
+2022-11-13 15:11:57,585 [main] INFO logger_file - user can update succesfully
+2022-11-13 15:11:57,608 [main] INFO logger_file - information successfuly updated
+2022-11-14 14:30:13,930 [main] INFO logger_file - React Appis equal to React App
+2022-11-14 14:30:14,341 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-14 14:30:17,648 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-14 14:30:20,765 [main] INFO logger_file - user click on login button
+2022-11-14 14:30:23,812 [main] INFO logger_file - user should be logged in into Account
+2022-11-14 14:30:27,261 [main] INFO logger_file - user successfully click on account option
+2022-11-14 14:30:30,416 [main] INFO logger_file - user click on add address
+2022-11-14 14:30:34,521 [main] INFO logger_file - user click on addres button
+2022-11-14 14:30:34,564 [main] INFO logger_file - user should added address successfully
+2022-11-14 14:31:38,685 [main] INFO logger_file - React Appis equal to React App
+2022-11-14 14:31:39,117 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-14 14:31:42,423 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-14 14:31:45,526 [main] INFO logger_file - user click on login button
+2022-11-14 14:31:48,589 [main] INFO logger_file - user should be logged in into Account
+2022-11-14 14:31:51,995 [main] INFO logger_file - user successfully click on account option
+2022-11-14 14:31:55,138 [main] INFO logger_file - user click on add address
+2022-11-14 14:31:59,202 [main] INFO logger_file - user click on addres button
+2022-11-14 14:31:59,246 [main] INFO logger_file - user should added address successfully
+2022-11-14 15:18:30,426 [main] INFO logger_file - React Appis equal to React App
+2022-11-14 15:18:30,850 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-14 15:18:34,136 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-14 15:18:37,261 [main] INFO logger_file - user click on login button
+2022-11-14 15:18:40,314 [main] INFO logger_file - user should be logged in into Account
+2022-11-14 15:18:43,770 [main] INFO logger_file - user successfully click on account option
+2022-11-14 15:18:46,902 [main] INFO logger_file - user can click on edit option 
+2022-11-14 15:18:47,911 [main] INFO logger_file - user click on update address button
+2022-11-14 15:18:47,942 [main] INFO logger_file - your new address updated
+2022-11-14 15:35:26,185 [main] INFO logger_file - React Appis equal to React App
+2022-11-14 15:35:26,658 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-14 15:35:29,942 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-14 15:35:33,056 [main] INFO logger_file - user click on login button
+2022-11-14 15:35:36,104 [main] INFO logger_file - user should be logged in into Account
+2022-11-14 15:35:39,568 [main] INFO logger_file - user successfully click on account option
+2022-11-14 15:35:42,711 [main] INFO logger_file - user can click on edit option 
+2022-11-14 15:35:43,982 [main] INFO logger_file - user click on update address button
+2022-11-14 15:35:44,024 [main] INFO logger_file - your new address updated
+2022-11-14 15:38:03,876 [main] INFO logger_file - React Appis equal to React App
+2022-11-14 15:38:04,359 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-14 15:38:07,623 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-14 15:38:10,719 [main] INFO logger_file - user click on login button
+2022-11-14 15:38:13,762 [main] INFO logger_file - user should be logged in into Account
+2022-11-14 15:38:17,181 [main] INFO logger_file - user successfully click on account option
+2022-11-14 15:38:20,299 [main] INFO logger_file - user can click on edit option 
+2022-11-14 15:38:21,571 [main] INFO logger_file - user click on update address button
+2022-11-14 15:38:21,614 [main] INFO logger_file - your new address updated
+2022-11-14 15:51:57,801 [main] INFO logger_file - React Appis equal to React App
+2022-11-14 15:51:58,291 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-14 15:52:01,573 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-14 15:52:04,685 [main] INFO logger_file - user click on login button
+2022-11-14 15:52:07,732 [main] INFO logger_file - user should be logged in into Account
+2022-11-14 15:52:11,186 [main] INFO logger_file - user successfully click on account option
+2022-11-14 15:52:14,310 [main] INFO logger_file - user can click on edit option 
+2022-11-14 15:52:18,749 [main] INFO logger_file - user click on update address button
+2022-11-14 15:52:18,779 [main] INFO logger_file - your new address updated
+2022-11-14 16:03:58,468 [main] INFO logger_file - React Appis equal to React App
+2022-11-14 16:03:58,943 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-14 16:04:02,226 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-14 16:04:05,331 [main] INFO logger_file - user click on login button
+2022-11-14 16:04:08,380 [main] INFO logger_file - user should be logged in into Account
+2022-11-14 16:04:11,795 [main] INFO logger_file - user successfully click on account option
+2022-11-14 16:04:14,878 [main] INFO logger_file - user click on remove option
+2022-11-14 16:04:14,925 [main] INFO logger_file - user removed address
+2022-11-14 18:16:13,450 [main] INFO logger_file - React Appis equal to React App
+2022-11-14 18:16:13,561 [main] INFO logger_file - User clicked on All Section successfully
+2022-11-14 23:06:17,878 [main] INFO logger_file - React Appis equal to React App
+2022-11-14 23:06:18,013 [main] INFO logger_file - User clicked on All Section successfully
+2022-11-14 23:06:21,049 [main] INFO logger_file - options Electronics, Computers, Smart Home, Sports and Automative are present
+2022-11-14 23:09:21,068 [main] INFO logger_file - React Appis equal to React App
+2022-11-14 23:09:21,256 [main] INFO logger_file - User clicked on All Section successfully
+2022-11-14 23:09:24,298 [main] INFO logger_file - options Electronics, Computers, Smart Home, Sports and Automative are present
+2022-11-15 12:44:35,357 [main] INFO logger_file - React Appis equal to React App
+2022-11-15 12:44:35,547 [main] INFO logger_file - User clicked on All Section successfully
+2022-11-15 12:45:16,206 [main] INFO logger_file - React Appis equal to React App
+2022-11-15 12:45:16,391 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-15 12:45:19,699 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1212
+2022-11-15 12:45:22,810 [main] INFO logger_file - user click on login button
+2022-11-15 12:47:48,691 [main] INFO logger_file - React Appis equal to React App
+2022-11-15 12:47:48,832 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-15 12:47:52,112 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-15 12:47:55,226 [main] INFO logger_file - user click on login button
+2022-11-15 12:47:58,284 [main] INFO logger_file - user should be logged in into Account
+2022-11-15 12:49:29,482 [main] INFO logger_file - React Appis equal to React App
+2022-11-15 12:49:29,726 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-15 12:49:33,090 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-15 12:49:36,184 [main] INFO logger_file - user click on login button
+2022-11-15 12:49:39,243 [main] INFO logger_file - user should be logged in into Account
+2022-11-15 12:52:55,281 [main] INFO logger_file - React Appis equal to React App
+2022-11-15 12:52:55,707 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-15 12:52:59,015 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-15 12:53:02,120 [main] INFO logger_file - user click on login button
+2022-11-15 12:53:05,168 [main] INFO logger_file - user should be logged in into Account
+2022-11-15 12:53:08,269 [main] INFO logger_file - All Department changed toSmart Home
+2022-11-15 14:48:23,760 [main] INFO logger_file - React Appis equal to React App
+2022-11-15 14:48:24,219 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-15 14:48:27,485 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-15 14:48:30,599 [main] INFO logger_file - user click on login button
+2022-11-15 14:48:33,653 [main] INFO logger_file - user should be logged in into Account
+2022-11-15 14:48:36,758 [main] INFO logger_file - All Department changed toSmart Home
+2022-11-15 14:50:27,427 [main] INFO logger_file - React Appis equal to React App
+2022-11-15 14:50:27,585 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-15 14:50:30,873 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-15 14:50:33,974 [main] INFO logger_file - user click on login button
+2022-11-15 14:50:37,030 [main] INFO logger_file - user should be logged in into Account
+2022-11-15 14:50:40,155 [main] INFO logger_file - All Department changed toSmart Home
+2022-11-15 14:50:40,283 [main] INFO logger_file - user entred kasa outdoor smart plug
+2022-11-15 14:50:40,399 [main] INFO logger_file - user clicked on search button
+2022-11-15 14:50:40,638 [main] INFO logger_file - user clicked on item
+2022-11-15 15:10:27,690 [main] INFO logger_file - React Appis equal to React App
+2022-11-15 15:10:28,106 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-15 15:10:31,373 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-15 15:10:34,499 [main] INFO logger_file - user click on login button
+2022-11-15 15:10:37,561 [main] INFO logger_file - user should be logged in into Account
+2022-11-15 15:10:40,673 [main] INFO logger_file - All Department changed toSmart Home
+2022-11-15 15:10:40,812 [main] INFO logger_file - user entred kasa outdoor smart plug
+2022-11-15 15:10:40,919 [main] INFO logger_file - user clicked on search button
+2022-11-15 15:10:41,154 [main] INFO logger_file - user clicked on item
+2022-11-15 15:10:41,399 [main] INFO logger_file - user selected quantity '2' 
+2022-11-15 15:10:41,563 [main] INFO logger_file - user clicked on Add To Cart
+2022-11-15 15:12:03,400 [main] INFO logger_file - React Appis equal to React App
+2022-11-15 15:12:03,577 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-15 15:12:06,838 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-15 15:12:09,954 [main] INFO logger_file - user click on login button
+2022-11-15 15:12:13,016 [main] INFO logger_file - user should be logged in into Account
+2022-11-15 15:12:16,147 [main] INFO logger_file - All Department changed toSmart Home
+2022-11-15 15:12:16,264 [main] INFO logger_file - user entred kasa outdoor smart plug
+2022-11-15 15:12:16,374 [main] INFO logger_file - user clicked on search button
+2022-11-15 15:12:16,607 [main] INFO logger_file - user clicked on item
+2022-11-15 15:14:31,673 [main] INFO logger_file - React Appis equal to React App
+2022-11-15 15:14:31,833 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-15 15:14:35,075 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-15 15:14:38,175 [main] INFO logger_file - user click on login button
+2022-11-15 15:14:41,220 [main] INFO logger_file - user should be logged in into Account
+2022-11-15 15:14:44,337 [main] INFO logger_file - All Department changed toSmart Home
+2022-11-15 15:14:44,475 [main] INFO logger_file - user entred kasa outdoor smart plug
+2022-11-15 15:14:44,589 [main] INFO logger_file - user clicked on search button
+2022-11-15 15:14:44,830 [main] INFO logger_file - user clicked on item
+2022-11-15 15:14:45,002 [main] INFO logger_file - user selected quantity '2' 
+2022-11-15 15:14:45,159 [main] INFO logger_file - user clicked on Add To Cart
+2022-11-15 15:23:24,838 [main] INFO logger_file - React Appis equal to React App
+2022-11-15 15:23:25,060 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-15 15:23:28,308 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-15 15:23:31,408 [main] INFO logger_file - user click on login button
+2022-11-15 15:23:34,464 [main] INFO logger_file - user should be logged in into Account
+2022-11-15 15:23:37,596 [main] INFO logger_file - All Department changed toSmart Home
+2022-11-15 15:23:37,705 [main] INFO logger_file - user entred kasa outdoor smart plug
+2022-11-15 15:23:37,780 [main] INFO logger_file - user clicked on search button
+2022-11-15 15:23:37,997 [main] INFO logger_file - user clicked on item
+2022-11-15 15:23:38,166 [main] INFO logger_file - user selected quantity '2' 
+2022-11-15 15:23:38,316 [main] INFO logger_file - user clicked on Add To Cart
+2022-11-15 15:23:38,351 [main] INFO logger_file - cart icone changed to '2' 
+2022-11-15 18:27:40,198 [main] INFO logger_file - React Appis equal to React App
+2022-11-15 18:27:40,633 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-15 18:27:43,878 [main] INFO logger_file - user entered emailEmailValueand passwordPasswordValue
+2022-11-15 18:29:40,992 [main] INFO logger_file - React Appis equal to React App
+2022-11-15 18:29:41,389 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-15 18:29:44,619 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-15 18:29:47,726 [main] INFO logger_file - user click on login button
+2022-11-15 18:29:50,782 [main] INFO logger_file - user should be logged in into Account
+2022-11-15 18:29:53,893 [main] INFO logger_file - All Department changed toSmart Home
+2022-11-15 18:29:54,004 [main] INFO logger_file - user entred kasa outdoor smart plug
+2022-11-15 18:31:35,294 [main] INFO logger_file - React Appis equal to React App
+2022-11-15 18:31:36,026 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-15 18:31:39,313 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-15 18:31:42,435 [main] INFO logger_file - user click on login button
+2022-11-15 18:31:45,492 [main] INFO logger_file - user should be logged in into Account
+2022-11-15 18:31:48,601 [main] INFO logger_file - All Department changed toSmart Home
+2022-11-15 18:31:48,747 [main] INFO logger_file - user entred kasa outdoor smart plug
+2022-11-15 18:33:17,975 [main] INFO logger_file - React Appis equal to React App
+2022-11-15 18:33:18,801 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-15 18:33:22,064 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-15 18:33:25,162 [main] INFO logger_file - user click on login button
+2022-11-15 18:33:28,218 [main] INFO logger_file - user should be logged in into Account
+2022-11-15 18:33:31,340 [main] INFO logger_file - All Department changed toSmart Home
+2022-11-15 18:33:31,468 [main] INFO logger_file - user entred kasa outdoor smart plug
+2022-11-15 18:33:31,559 [main] INFO logger_file - user clicked on search button
+2022-11-15 18:33:31,797 [main] INFO logger_file - user clicked on item
+2022-11-15 18:33:31,960 [main] INFO logger_file - user selected quantity '2' 
+2022-11-15 18:33:32,103 [main] INFO logger_file - user clicked on Add To Cart
+2022-11-15 18:33:32,144 [main] INFO logger_file - cart icone changed to '2' 
+2022-11-15 18:33:32,278 [main] INFO logger_file - user click on cartButton
+2022-11-15 18:33:32,414 [main] INFO logger_file - user click on proced checkout button
+2022-11-15 18:33:32,604 [main] INFO logger_file - user click on add new address button link
+2022-11-15 18:40:27,271 [main] INFO logger_file - React Appis equal to React App
+2022-11-15 18:40:27,743 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-15 18:40:31,014 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-15 18:40:34,134 [main] INFO logger_file - user click on login button
+2022-11-15 18:40:37,181 [main] INFO logger_file - user should be logged in into Account
+2022-11-15 18:40:40,305 [main] INFO logger_file - All Department changed toSmart Home
+2022-11-15 18:40:40,435 [main] INFO logger_file - user entred kasa outdoor smart plug
+2022-11-15 18:40:40,531 [main] INFO logger_file - user clicked on search button
+2022-11-15 18:40:40,752 [main] INFO logger_file - user clicked on item
+2022-11-15 18:40:40,925 [main] INFO logger_file - user selected quantity '2' 
+2022-11-15 18:40:41,075 [main] INFO logger_file - user clicked on Add To Cart
+2022-11-15 18:40:41,118 [main] INFO logger_file - cart icone changed to '2' 
+2022-11-15 18:40:41,233 [main] INFO logger_file - user click on cartButton
+2022-11-15 18:40:41,361 [main] INFO logger_file - user click on proced checkout button
+2022-11-15 18:40:41,512 [main] INFO logger_file - user click on add new address button link
+2022-11-15 18:42:38,499 [main] INFO logger_file - React Appis equal to React App
+2022-11-15 18:42:39,040 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-15 18:42:42,330 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-15 18:42:45,451 [main] INFO logger_file - user click on login button
+2022-11-15 18:42:48,514 [main] INFO logger_file - user should be logged in into Account
+2022-11-15 18:42:51,634 [main] INFO logger_file - All Department changed toSmart Home
+2022-11-15 18:42:51,771 [main] INFO logger_file - user entred kasa outdoor smart plug
+2022-11-15 18:42:51,865 [main] INFO logger_file - user clicked on search button
+2022-11-15 18:42:52,152 [main] INFO logger_file - user clicked on item
+2022-11-15 18:42:52,446 [main] INFO logger_file - user selected quantity '2' 
+2022-11-15 18:42:52,600 [main] INFO logger_file - user clicked on Add To Cart
+2022-11-15 18:42:52,645 [main] INFO logger_file - cart icone changed to '2' 
+2022-11-15 18:42:52,781 [main] INFO logger_file - user click on cartButton
+2022-11-15 18:42:52,932 [main] INFO logger_file - user click on proced checkout button
+2022-11-15 18:42:53,104 [main] INFO logger_file - user click on add new address button link
+2022-11-15 18:42:57,481 [main] INFO logger_file - user click on addres button
+2022-11-15 18:44:28,768 [main] INFO logger_file - React Appis equal to React App
+2022-11-15 18:44:29,248 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-15 18:44:32,520 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-15 18:44:35,639 [main] INFO logger_file - user click on login button
+2022-11-15 18:44:38,696 [main] INFO logger_file - user should be logged in into Account
+2022-11-15 18:44:41,798 [main] INFO logger_file - All Department changed toSmart Home
+2022-11-15 18:44:41,972 [main] INFO logger_file - user entred kasa outdoor smart plug
+2022-11-15 18:44:42,072 [main] INFO logger_file - user clicked on search button
+2022-11-15 18:44:42,387 [main] INFO logger_file - user clicked on item
+2022-11-15 18:44:42,676 [main] INFO logger_file - user selected quantity '2' 
+2022-11-15 18:44:42,782 [main] INFO logger_file - user clicked on Add To Cart
+2022-11-15 18:44:42,834 [main] INFO logger_file - cart icone changed to '2' 
+2022-11-15 18:44:42,965 [main] INFO logger_file - user click on cartButton
+2022-11-15 18:44:43,102 [main] INFO logger_file - user click on proced checkout button
+2022-11-15 18:44:43,283 [main] INFO logger_file - user click on add new address button link
+2022-11-15 18:44:47,569 [main] INFO logger_file - user click on addres button
+2022-11-15 18:44:47,724 [main] INFO logger_file - user click on add payment method
+2022-11-15 18:46:46,596 [main] INFO logger_file - React Appis equal to React App
+2022-11-15 18:46:47,462 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-15 18:46:50,727 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-15 18:46:53,824 [main] INFO logger_file - user click on login button
+2022-11-15 18:46:56,879 [main] INFO logger_file - user should be logged in into Account
+2022-11-15 18:46:59,972 [main] INFO logger_file - All Department changed toSmart Home
+2022-11-15 18:47:00,131 [main] INFO logger_file - user entred kasa outdoor smart plug
+2022-11-15 18:47:00,244 [main] INFO logger_file - user clicked on search button
+2022-11-15 18:47:00,547 [main] INFO logger_file - user clicked on item
+2022-11-15 18:47:00,834 [main] INFO logger_file - user selected quantity '2' 
+2022-11-15 18:47:00,938 [main] INFO logger_file - user clicked on Add To Cart
+2022-11-15 18:47:00,987 [main] INFO logger_file - cart icone changed to '2' 
+2022-11-15 18:47:01,151 [main] INFO logger_file - user click on cartButton
+2022-11-15 18:47:01,286 [main] INFO logger_file - user click on proced checkout button
+2022-11-15 18:47:01,475 [main] INFO logger_file - user click on add new address button link
+2022-11-15 18:47:05,799 [main] INFO logger_file - user click on addres button
+2022-11-15 18:47:05,972 [main] INFO logger_file - user click on add payment method
+2022-11-15 18:47:06,638 [main] INFO logger_file - user click on add card button
+2022-11-15 18:50:57,290 [main] INFO logger_file - React Appis equal to React App
+2022-11-15 18:50:58,404 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-15 18:51:01,687 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-15 18:51:04,791 [main] INFO logger_file - user click on login button
+2022-11-15 18:51:07,824 [main] INFO logger_file - user should be logged in into Account
+2022-11-15 18:51:10,925 [main] INFO logger_file - All Department changed toSmart Home
+2022-11-15 18:51:11,096 [main] INFO logger_file - user entred kasa outdoor smart plug
+2022-11-15 18:51:11,207 [main] INFO logger_file - user clicked on search button
+2022-11-15 18:51:11,492 [main] INFO logger_file - user clicked on item
+2022-11-15 18:51:11,809 [main] INFO logger_file - user selected quantity '2' 
+2022-11-15 18:51:11,958 [main] INFO logger_file - user clicked on Add To Cart
+2022-11-15 18:51:11,993 [main] INFO logger_file - cart icone changed to '2' 
+2022-11-15 18:51:12,142 [main] INFO logger_file - user click on cartButton
+2022-11-15 18:51:12,275 [main] INFO logger_file - user click on proced checkout button
+2022-11-15 18:51:12,455 [main] INFO logger_file - user click on add new address button link
+2022-11-15 18:51:17,060 [main] INFO logger_file - user click on addres button
+2022-11-15 18:51:17,235 [main] INFO logger_file - user click on add payment method
+2022-11-15 18:51:17,973 [main] INFO logger_file - user click on add card button
+2022-11-15 18:52:48,960 [main] INFO logger_file - React Appis equal to React App
+2022-11-15 18:52:49,795 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-15 18:52:53,066 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-15 18:52:56,184 [main] INFO logger_file - user click on login button
+2022-11-15 18:52:59,229 [main] INFO logger_file - user should be logged in into Account
+2022-11-15 18:53:02,355 [main] INFO logger_file - All Department changed toSmart Home
+2022-11-15 18:53:02,514 [main] INFO logger_file - user entred kasa outdoor smart plug
+2022-11-15 18:53:02,626 [main] INFO logger_file - user clicked on search button
+2022-11-15 18:53:02,917 [main] INFO logger_file - user clicked on item
+2022-11-15 18:53:03,187 [main] INFO logger_file - user selected quantity '2' 
+2022-11-15 18:53:03,309 [main] INFO logger_file - user clicked on Add To Cart
+2022-11-15 18:53:03,360 [main] INFO logger_file - cart icone changed to '2' 
+2022-11-15 18:53:03,516 [main] INFO logger_file - user click on cartButton
+2022-11-15 18:53:03,645 [main] INFO logger_file - user click on proced checkout button
+2022-11-15 18:53:03,818 [main] INFO logger_file - user click on add new address button link
+2022-11-15 18:53:08,176 [main] INFO logger_file - user click on addres button
+2022-11-15 18:53:08,328 [main] INFO logger_file - user click on add payment method
+2022-11-15 18:53:08,995 [main] INFO logger_file - user click on add card button
+2022-11-15 18:54:28,086 [main] INFO logger_file - React Appis equal to React App
+2022-11-15 18:54:28,934 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-15 18:54:32,212 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-15 18:54:35,307 [main] INFO logger_file - user click on login button
+2022-11-15 18:54:38,361 [main] INFO logger_file - user should be logged in into Account
+2022-11-15 18:54:41,474 [main] INFO logger_file - All Department changed toSmart Home
+2022-11-15 18:54:41,641 [main] INFO logger_file - user entred kasa outdoor smart plug
+2022-11-15 18:54:41,741 [main] INFO logger_file - user clicked on search button
+2022-11-15 18:54:41,990 [main] INFO logger_file - user clicked on item
+2022-11-15 18:54:42,236 [main] INFO logger_file - user selected quantity '2' 
+2022-11-15 18:54:42,367 [main] INFO logger_file - user clicked on Add To Cart
+2022-11-15 18:54:42,429 [main] INFO logger_file - cart icone changed to '2' 
+2022-11-15 18:54:42,575 [main] INFO logger_file - user click on cartButton
+2022-11-15 18:54:42,717 [main] INFO logger_file - user click on proced checkout button
+2022-11-15 18:54:42,892 [main] INFO logger_file - user click on add new address button link
+2022-11-15 18:54:47,196 [main] INFO logger_file - user click on addres button
+2022-11-15 18:54:47,379 [main] INFO logger_file - user click on add payment method
+2022-11-15 18:54:48,060 [main] INFO logger_file - user click on add card button
+2022-11-15 18:56:04,666 [main] INFO logger_file - React Appis equal to React App
+2022-11-15 18:56:05,391 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-15 18:56:08,663 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-15 18:56:11,782 [main] INFO logger_file - user click on login button
+2022-11-15 18:56:14,841 [main] INFO logger_file - user should be logged in into Account
+2022-11-15 18:56:17,952 [main] INFO logger_file - All Department changed toSmart Home
+2022-11-15 18:56:18,084 [main] INFO logger_file - user entred kasa outdoor smart plug
+2022-11-15 18:56:18,194 [main] INFO logger_file - user clicked on search button
+2022-11-15 18:56:18,481 [main] INFO logger_file - user clicked on item
+2022-11-15 18:56:18,709 [main] INFO logger_file - user selected quantity '2' 
+2022-11-15 18:56:18,823 [main] INFO logger_file - user clicked on Add To Cart
+2022-11-15 18:56:18,871 [main] INFO logger_file - cart icone changed to '2' 
+2022-11-15 18:56:19,019 [main] INFO logger_file - user click on cartButton
+2022-11-15 18:56:19,172 [main] INFO logger_file - user click on proced checkout button
+2022-11-15 18:56:19,396 [main] INFO logger_file - user click on add new address button link
+2022-11-15 18:56:23,673 [main] INFO logger_file - user click on addres button
+2022-11-15 18:56:23,838 [main] INFO logger_file - user click on add payment method
+2022-11-15 18:56:24,513 [main] INFO logger_file - user click on add card button
+2022-11-15 22:11:45,393 [main] INFO logger_file - React Appis equal to React App
+2022-11-15 22:11:45,890 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-15 22:11:49,147 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-15 22:11:52,249 [main] INFO logger_file - user click on login button
+2022-11-15 22:11:55,295 [main] INFO logger_file - user should be logged in into Account
+2022-11-15 22:11:58,422 [main] INFO logger_file - All Department changed toSmart Home
+2022-11-15 22:11:58,560 [main] INFO logger_file - user entred kasa outdoor smart plug
+2022-11-15 22:11:58,659 [main] INFO logger_file - user clicked on search button
+2022-11-15 22:11:58,965 [main] INFO logger_file - user clicked on item
+2022-11-15 22:11:59,313 [main] INFO logger_file - user selected quantity '2' 
+2022-11-15 22:11:59,424 [main] INFO logger_file - user clicked on Add To Cart
+2022-11-15 22:11:59,466 [main] INFO logger_file - cart icone changed to '2' 
+2022-11-15 22:11:59,613 [main] INFO logger_file - user click on cartButton
+2022-11-15 22:11:59,768 [main] INFO logger_file - user click on proced checkout button
+2022-11-15 22:11:59,923 [main] INFO logger_file - user click on add new address button link
+2022-11-15 22:12:04,290 [main] INFO logger_file - user click on addres button
+2022-11-15 22:12:04,460 [main] INFO logger_file - user click on add payment method
+2022-11-15 22:12:05,144 [main] INFO logger_file - user click on add card button
+2022-11-15 22:18:00,003 [main] INFO logger_file - React Appis equal to React App
+2022-11-15 22:18:00,874 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-15 22:18:04,131 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-15 22:18:07,238 [main] INFO logger_file - user click on login button
+2022-11-15 22:18:10,289 [main] INFO logger_file - user should be logged in into Account
+2022-11-15 22:18:13,412 [main] INFO logger_file - All Department changed toSmart Home
+2022-11-15 22:18:13,525 [main] INFO logger_file - user entred kasa outdoor smart plug
+2022-11-15 22:18:13,621 [main] INFO logger_file - user clicked on search button
+2022-11-15 22:18:13,853 [main] INFO logger_file - user clicked on item
+2022-11-15 22:18:14,025 [main] INFO logger_file - user selected quantity '2' 
+2022-11-15 22:18:14,179 [main] INFO logger_file - user clicked on Add To Cart
+2022-11-15 22:18:14,212 [main] INFO logger_file - cart icone changed to '2' 
+2022-11-15 22:18:14,326 [main] INFO logger_file - user click on cartButton
+2022-11-15 22:18:14,474 [main] INFO logger_file - user click on proced checkout button
+2022-11-15 22:18:14,657 [main] INFO logger_file - user click on add new address button link
+2022-11-15 22:18:19,076 [main] INFO logger_file - user click on addres button
+2022-11-15 22:18:19,238 [main] INFO logger_file - user click on add payment method
+2022-11-15 22:18:19,859 [main] INFO logger_file - user click on add card button
+2022-11-15 22:26:09,132 [main] INFO logger_file - React Appis equal to React App
+2022-11-15 22:26:09,587 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-15 22:26:12,843 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-15 22:26:15,952 [main] INFO logger_file - user click on login button
+2022-11-15 22:26:19,005 [main] INFO logger_file - user should be logged in into Account
+2022-11-15 22:26:22,127 [main] INFO logger_file - All Department changed toSmart Home
+2022-11-15 22:26:22,268 [main] INFO logger_file - user entred kasa outdoor smart plug
+2022-11-15 22:26:22,375 [main] INFO logger_file - user clicked on search button
+2022-11-15 22:26:22,800 [main] INFO logger_file - user clicked on item
+2022-11-15 22:26:23,022 [main] INFO logger_file - user selected quantity '2' 
+2022-11-15 22:26:23,154 [main] INFO logger_file - user clicked on Add To Cart
+2022-11-15 22:26:23,198 [main] INFO logger_file - cart icone changed to '2' 
+2022-11-15 22:26:23,367 [main] INFO logger_file - user click on cartButton
+2022-11-15 22:26:23,545 [main] INFO logger_file - user click on proced checkout button
+2022-11-15 22:26:23,727 [main] INFO logger_file - user click on add new address button link
+2022-11-15 22:26:28,121 [main] INFO logger_file - user click on addres button
+2022-11-15 22:26:28,288 [main] INFO logger_file - user click on add payment method
+2022-11-15 22:26:29,055 [main] INFO logger_file - user click on add your card button
+2022-11-15 22:30:41,437 [main] INFO logger_file - React Appis equal to React App
+2022-11-15 22:30:42,070 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-15 22:30:45,430 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-15 22:30:48,556 [main] INFO logger_file - user click on login button
+2022-11-15 22:30:51,613 [main] INFO logger_file - user should be logged in into Account
+2022-11-15 22:30:54,726 [main] INFO logger_file - All Department changed toSmart Home
+2022-11-15 22:30:54,881 [main] INFO logger_file - user entred kasa outdoor smart plug
+2022-11-15 22:30:54,988 [main] INFO logger_file - user clicked on search button
+2022-11-15 22:30:55,270 [main] INFO logger_file - user clicked on item
+2022-11-15 22:30:55,463 [main] INFO logger_file - user selected quantity '2' 
+2022-11-15 22:30:55,644 [main] INFO logger_file - user clicked on Add To Cart
+2022-11-15 22:30:55,695 [main] INFO logger_file - cart icone changed to '2' 
+2022-11-15 22:30:55,839 [main] INFO logger_file - user click on cartButton
+2022-11-15 22:30:56,009 [main] INFO logger_file - user click on proced checkout button
+2022-11-15 22:30:56,242 [main] INFO logger_file - user click on add new address button link
+2022-11-15 22:31:00,834 [main] INFO logger_file - user click on addres button
+2022-11-15 22:31:01,048 [main] INFO logger_file - user click on add payment method
+2022-11-15 22:31:01,827 [main] INFO logger_file - user click on add card button
+2022-11-15 22:35:18,163 [main] INFO logger_file - React Appis equal to React App
+2022-11-15 22:35:18,782 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-15 22:35:22,038 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-15 22:35:25,142 [main] INFO logger_file - user click on login button
+2022-11-15 22:35:28,187 [main] INFO logger_file - user should be logged in into Account
+2022-11-15 22:35:31,291 [main] INFO logger_file - All Department changed toSmart Home
+2022-11-15 22:35:31,424 [main] INFO logger_file - user entred kasa outdoor smart plug
+2022-11-15 22:35:31,527 [main] INFO logger_file - user clicked on search button
+2022-11-15 22:35:31,785 [main] INFO logger_file - user clicked on item
+2022-11-15 22:35:32,007 [main] INFO logger_file - user selected quantity '2' 
+2022-11-15 22:35:32,118 [main] INFO logger_file - user clicked on Add To Cart
+2022-11-15 22:35:32,153 [main] INFO logger_file - cart icone changed to '2' 
+2022-11-15 22:35:32,292 [main] INFO logger_file - user click on cartButton
+2022-11-15 22:35:32,422 [main] INFO logger_file - user click on proced checkout button
+2022-11-15 22:35:32,575 [main] INFO logger_file - user click on add new address button link
+2022-11-15 22:35:36,857 [main] INFO logger_file - user click on addres button
+2022-11-15 22:35:37,008 [main] INFO logger_file - user click on add payment method
+2022-11-15 22:35:37,667 [main] INFO logger_file - user click on add card button
+2022-11-16 11:16:33,867 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 11:16:34,030 [main] INFO logger_file - User clicked on All Section successfully
+2022-11-16 11:16:37,270 [main] INFO logger_file - options Electronics, Computers, Smart Home, Sports and Automative are present
+2022-11-16 11:18:49,364 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 11:18:49,508 [main] INFO logger_file - User clicked on All Section successfully
+2022-11-16 11:18:52,558 [main] INFO logger_file - options Electronics, Computers, Smart Home, Sports and Automative are present
+2022-11-16 11:18:56,000 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 11:18:56,231 [main] INFO logger_file - User clicked on All Section successfully
+2022-11-16 11:19:02,210 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 11:19:02,388 [main] INFO logger_file - User clicked on All Section successfully
+2022-11-16 11:19:09,607 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 11:19:09,747 [main] INFO logger_file - User clicked on All Section successfully
+2022-11-16 11:19:16,487 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 11:19:16,690 [main] INFO logger_file - User clicked on All Section successfully
+2022-11-16 11:19:22,956 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 11:19:23,200 [main] INFO logger_file - User clicked on All Section successfully
+2022-11-16 11:23:49,898 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 11:23:50,340 [main] INFO logger_file - User clicked on All Section successfully
+2022-11-16 11:23:56,134 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 11:23:56,250 [main] INFO logger_file - User clicked on All Section successfully
+2022-11-16 11:24:02,046 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 11:24:02,241 [main] INFO logger_file - User clicked on All Section successfully
+2022-11-16 11:24:09,129 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 11:24:09,326 [main] INFO logger_file - User clicked on All Section successfully
+2022-11-16 11:24:15,971 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 11:24:16,112 [main] INFO logger_file - User clicked on All Section successfully
+2022-11-16 11:24:22,330 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 11:24:22,666 [main] INFO logger_file - User clicked on All Section successfully
+2022-11-16 11:25:56,187 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 11:25:56,366 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-16 11:25:59,697 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-16 11:26:02,816 [main] INFO logger_file - user click on login button
+2022-11-16 11:26:05,863 [main] INFO logger_file - user should be logged in into Account
+2022-11-16 11:26:08,985 [main] INFO logger_file - All Department changed toSmart Home
+2022-11-16 11:26:09,110 [main] INFO logger_file - user entred kasa outdoor smart plug
+2022-11-16 11:26:09,212 [main] INFO logger_file - user clicked on search button
+2022-11-16 11:26:09,398 [main] INFO logger_file - user clicked on item
+2022-11-16 11:26:09,574 [main] INFO logger_file - user selected quantity '2' 
+2022-11-16 11:30:14,693 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 11:30:15,063 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-16 11:30:18,321 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-16 11:30:21,445 [main] INFO logger_file - user click on login button
+2022-11-16 11:30:24,500 [main] INFO logger_file - user should be logged in into Account
+2022-11-16 11:30:27,604 [main] INFO logger_file - All Department changed toSmart Home
+2022-11-16 11:30:27,728 [main] INFO logger_file - user entred kasa outdoor smart plug
+2022-11-16 11:30:27,817 [main] INFO logger_file - user clicked on search button
+2022-11-16 11:30:28,034 [main] INFO logger_file - user clicked on item
+2022-11-16 11:30:28,260 [main] INFO logger_file - user selected quantity '2' 
+2022-11-16 11:30:28,375 [main] INFO logger_file - user clicked on Add To Cart
+2022-11-16 11:30:28,401 [main] INFO logger_file - cart icone changed to '2' 
+2022-11-16 11:51:05,661 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 11:51:06,388 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-16 11:51:09,646 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-16 11:51:12,763 [main] INFO logger_file - user click on login button
+2022-11-16 11:51:15,813 [main] INFO logger_file - user should be logged in into Account
+2022-11-16 11:51:18,903 [main] INFO logger_file - All Department changed toSmart Home
+2022-11-16 11:51:19,045 [main] INFO logger_file - user entred kasa outdoor smart plug
+2022-11-16 11:51:19,142 [main] INFO logger_file - user clicked on search button
+2022-11-16 11:51:19,436 [main] INFO logger_file - user clicked on item
+2022-11-16 11:51:19,726 [main] INFO logger_file - user selected quantity '2' 
+2022-11-16 11:51:19,866 [main] INFO logger_file - user clicked on Add To Cart
+2022-11-16 11:51:19,905 [main] INFO logger_file - cart icone changed to '2' 
+2022-11-16 11:51:20,030 [main] INFO logger_file - user click on cartButton
+2022-11-16 11:51:20,191 [main] INFO logger_file - user click on proced checkout button
+2022-11-16 11:51:20,362 [main] INFO logger_file - user click on add new address button link
+2022-11-16 11:51:24,808 [main] INFO logger_file - user click on addres button
+2022-11-16 11:51:24,979 [main] INFO logger_file - user click on add payment method
+2022-11-16 11:51:25,659 [main] INFO logger_file - user click on add card button
+2022-11-16 11:57:03,508 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 11:57:04,191 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-16 11:57:07,454 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-16 11:57:10,577 [main] INFO logger_file - user click on login button
+2022-11-16 11:57:13,643 [main] INFO logger_file - user should be logged in into Account
+2022-11-16 11:57:16,776 [main] INFO logger_file - All Department changed toSmart Home
+2022-11-16 11:57:16,917 [main] INFO logger_file - user entred kasa outdoor smart plug
+2022-11-16 11:57:17,000 [main] INFO logger_file - user clicked on search button
+2022-11-16 11:57:17,289 [main] INFO logger_file - user clicked on item
+2022-11-16 11:57:17,579 [main] INFO logger_file - user selected quantity '2' 
+2022-11-16 11:57:17,687 [main] INFO logger_file - user clicked on Add To Cart
+2022-11-16 11:57:17,724 [main] INFO logger_file - cart icone changed to '2' 
+2022-11-16 11:57:17,899 [main] INFO logger_file - user click on cartButton
+2022-11-16 11:57:18,055 [main] INFO logger_file - user click on proced checkout button
+2022-11-16 11:57:18,238 [main] INFO logger_file - user click on add new address button link
+2022-11-16 11:57:22,634 [main] INFO logger_file - user click on addres button
+2022-11-16 11:57:22,789 [main] INFO logger_file - user click on add payment method
+2022-11-16 11:57:23,470 [main] INFO logger_file - user click on add card button
+2022-11-16 13:23:14,968 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 13:23:15,471 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-16 13:23:18,724 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-16 13:23:21,830 [main] INFO logger_file - user click on login button
+2022-11-16 13:23:24,884 [main] INFO logger_file - user should be logged in into Account
+2022-11-16 13:23:28,003 [main] INFO logger_file - All Department changed toElectronics
+2022-11-16 13:23:28,104 [main] INFO logger_file - user entred Apex Legends 
+2022-11-16 13:23:28,197 [main] INFO logger_file - user clicked on search button
+2022-11-16 13:28:20,944 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 13:28:21,914 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-16 13:28:25,187 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-16 13:28:28,302 [main] INFO logger_file - user click on login button
+2022-11-16 13:28:31,353 [main] INFO logger_file - user should be logged in into Account
+2022-11-16 13:28:34,461 [main] INFO logger_file - All Department changed toElectronics
+2022-11-16 13:28:34,599 [main] INFO logger_file - user entred Apex Legends 
+2022-11-16 13:28:34,740 [main] INFO logger_file - user clicked on search button
+2022-11-16 13:33:43,733 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 13:33:45,012 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-16 13:33:48,282 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-16 13:33:51,396 [main] INFO logger_file - user click on login button
+2022-11-16 13:33:54,456 [main] INFO logger_file - user should be logged in into Account
+2022-11-16 13:33:57,574 [main] INFO logger_file - All Department changed toElectronics
+2022-11-16 13:33:57,685 [main] INFO logger_file - user entred Apex Legends 
+2022-11-16 13:33:57,785 [main] INFO logger_file - user clicked on search button
+2022-11-16 13:36:14,567 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 13:36:15,356 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-16 13:36:18,617 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-16 13:36:21,723 [main] INFO logger_file - user click on login button
+2022-11-16 13:36:24,778 [main] INFO logger_file - user should be logged in into Account
+2022-11-16 13:36:27,874 [main] INFO logger_file - All Department changed toElectronics
+2022-11-16 13:36:27,999 [main] INFO logger_file - user entred Apex Legends 
+2022-11-16 13:36:28,112 [main] INFO logger_file - user clicked on search button
+2022-11-16 17:44:23,062 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 17:44:23,876 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-16 17:44:27,195 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-16 17:44:30,416 [main] INFO logger_file - user click on login button
+2022-11-16 17:44:33,469 [main] INFO logger_file - user should be logged in into Account
+2022-11-16 17:44:36,575 [main] INFO logger_file - All Department changed toElectronics
+2022-11-16 17:44:36,702 [main] INFO logger_file - user entred Apex Legends 
+2022-11-16 17:44:36,809 [main] INFO logger_file - user clicked on search button
+2022-11-16 17:55:23,895 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 17:55:24,605 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-16 17:55:27,891 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-16 17:55:31,128 [main] INFO logger_file - user click on login button
+2022-11-16 17:55:34,187 [main] INFO logger_file - user should be logged in into Account
+2022-11-16 17:55:37,298 [main] INFO logger_file - All Department changed toElectronics
+2022-11-16 17:55:37,423 [main] INFO logger_file - user entred Apex Legends 
+2022-11-16 17:55:37,537 [main] INFO logger_file - user clicked on search button
+2022-11-16 17:58:20,127 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 17:58:20,753 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-16 17:58:24,017 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-16 17:58:27,132 [main] INFO logger_file - user click on login button
+2022-11-16 17:58:30,169 [main] INFO logger_file - user should be logged in into Account
+2022-11-16 17:58:33,265 [main] INFO logger_file - All Department changed toElectronics
+2022-11-16 17:58:33,397 [main] INFO logger_file - user entred Apex Legends 
+2022-11-16 17:58:33,522 [main] INFO logger_file - user clicked on search button
+2022-11-16 18:00:49,193 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 18:00:49,959 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-16 18:00:53,235 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-16 18:00:56,339 [main] INFO logger_file - user click on login button
+2022-11-16 18:00:59,376 [main] INFO logger_file - user should be logged in into Account
+2022-11-16 18:01:02,486 [main] INFO logger_file - All Department changed toElectronics
+2022-11-16 18:01:02,615 [main] INFO logger_file - user entred Apex Legends 
+2022-11-16 18:01:02,725 [main] INFO logger_file - user clicked on search button
+2022-11-16 18:01:03,057 [main] INFO logger_file - user clicked on item
+2022-11-16 18:01:03,408 [main] INFO logger_file - user selected quantity 5 
+2022-11-16 18:01:03,540 [main] INFO logger_file - user clicked on Add To Cart
+2022-11-16 18:01:03,625 [main] INFO logger_file - cart icone changed to '2' 
+2022-11-16 18:01:03,791 [main] INFO logger_file - user click on cartButton
+2022-11-16 18:01:03,986 [main] INFO logger_file - user click on proced checkout button
+2022-11-16 18:01:04,134 [main] INFO logger_file - user click on place your order
+2022-11-16 18:01:04,559 [main] INFO logger_file - A Message should display your order placed Thanks
+2022-11-16 18:02:47,372 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 18:02:48,123 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-16 18:02:51,460 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-16 18:02:54,560 [main] INFO logger_file - user click on login button
+2022-11-16 18:02:57,609 [main] INFO logger_file - user should be logged in into Account
+2022-11-16 18:03:00,721 [main] INFO logger_file - All Department changed toElectronics
+2022-11-16 18:03:00,897 [main] INFO logger_file - user entred Apex Legends 
+2022-11-16 18:03:01,018 [main] INFO logger_file - user clicked on search button
+2022-11-16 18:03:01,280 [main] INFO logger_file - user clicked on item
+2022-11-16 18:03:01,523 [main] INFO logger_file - user selected quantity 5 
+2022-11-16 18:03:01,664 [main] INFO logger_file - user clicked on Add To Cart
+2022-11-16 18:03:01,723 [main] INFO logger_file - cart icone changed to '2' 
+2022-11-16 18:03:01,867 [main] INFO logger_file - user click on cartButton
+2022-11-16 18:03:02,034 [main] INFO logger_file - user click on proced checkout button
+2022-11-16 18:03:02,189 [main] INFO logger_file - user click on place your order
+2022-11-16 18:03:02,548 [main] INFO logger_file - A Message should display your order placed Thanks
+2022-11-16 20:40:08,069 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 20:40:08,250 [main] INFO logger_file - User clicked on All Section successfully
+2022-11-16 20:40:14,534 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 20:40:14,645 [main] INFO logger_file - User clicked on All Section successfully
+2022-11-16 20:40:20,350 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 20:40:20,494 [main] INFO logger_file - User clicked on All Section successfully
+2022-11-16 20:40:26,899 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 20:40:27,373 [main] INFO logger_file - User clicked on All Section successfully
+2022-11-16 20:40:34,207 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 20:40:34,363 [main] INFO logger_file - User clicked on All Section successfully
+2022-11-16 20:47:29,747 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 20:47:29,936 [main] INFO logger_file - User clicked on All Section successfully
+2022-11-16 20:47:32,988 [main] INFO logger_file - options Electronics, Computers, Smart Home, Sports and Automative are present
+2022-11-16 20:47:35,932 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 20:47:36,115 [main] INFO logger_file - User clicked on All Section successfully
+2022-11-16 20:47:41,822 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 20:47:42,045 [main] INFO logger_file - User clicked on All Section successfully
+2022-11-16 20:47:48,807 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 20:47:49,018 [main] INFO logger_file - User clicked on All Section successfully
+2022-11-16 20:47:55,033 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 20:47:55,227 [main] INFO logger_file - User clicked on All Section successfully
+2022-11-16 20:48:01,130 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 20:48:01,364 [main] INFO logger_file - User clicked on All Section successfully
+2022-11-16 20:48:09,070 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 20:48:10,391 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-16 20:48:13,756 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-16 20:48:16,868 [main] INFO logger_file - user click on login button
+2022-11-16 20:48:19,924 [main] INFO logger_file - user should be logged in into Account
+2022-11-16 20:48:23,044 [main] INFO logger_file - All Department changed toSmart Home
+2022-11-16 20:48:23,275 [main] INFO logger_file - user entred kasa outdoor smart plug
+2022-11-16 20:48:23,441 [main] INFO logger_file - user clicked on search button
+2022-11-16 20:48:23,894 [main] INFO logger_file - user clicked on item
+2022-11-16 20:48:24,193 [main] INFO logger_file - user selected quantity '2' 
+2022-11-16 20:48:24,338 [main] INFO logger_file - user clicked on Add To Cart
+2022-11-16 20:48:24,415 [main] INFO logger_file - cart icone changed to '2' 
+2022-11-16 20:48:28,458 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 20:48:29,001 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-16 20:48:32,254 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-16 20:48:35,354 [main] INFO logger_file - user click on login button
+2022-11-16 20:48:38,401 [main] INFO logger_file - user should be logged in into Account
+2022-11-16 20:48:41,532 [main] INFO logger_file - All Department changed toSmart Home
+2022-11-16 20:48:41,781 [main] INFO logger_file - user entred kasa outdoor smart plug
+2022-11-16 20:48:42,000 [main] INFO logger_file - user clicked on search button
+2022-11-16 20:48:42,760 [main] INFO logger_file - user clicked on item
+2022-11-16 20:48:43,071 [main] INFO logger_file - user selected quantity '2' 
+2022-11-16 20:48:43,262 [main] INFO logger_file - user clicked on Add To Cart
+2022-11-16 20:48:43,321 [main] INFO logger_file - cart icone changed to '2' 
+2022-11-16 20:48:43,483 [main] INFO logger_file - user click on cartButton
+2022-11-16 20:48:43,675 [main] INFO logger_file - user click on proced checkout button
+2022-11-16 20:48:43,838 [main] INFO logger_file - user click on add new address button link
+2022-11-16 20:48:48,347 [main] INFO logger_file - user click on addres button
+2022-11-16 20:48:48,559 [main] INFO logger_file - user click on add payment method
+2022-11-16 20:48:49,277 [main] INFO logger_file - user click on add card button
+2022-11-16 20:48:52,629 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 20:48:53,221 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-16 20:48:56,691 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-16 20:50:09,114 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 20:50:09,356 [main] INFO logger_file - User clicked on All Section successfully
+2022-11-16 20:50:16,210 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 20:50:16,319 [main] INFO logger_file - User clicked on All Section successfully
+2022-11-16 20:50:23,556 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 20:50:23,705 [main] INFO logger_file - User clicked on All Section successfully
+2022-11-16 20:50:30,368 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 20:50:30,517 [main] INFO logger_file - User clicked on All Section successfully
+2022-11-16 20:50:37,051 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 20:50:37,279 [main] INFO logger_file - User clicked on All Section successfully
+2022-11-16 20:55:48,794 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 20:55:48,974 [main] INFO logger_file - User clicked on All Section successfully
+2022-11-16 20:55:52,013 [main] INFO logger_file - user is on Electronics section
+2022-11-16 20:55:52,170 [main] INFO logger_file - Video Games options are present in departmentTV & Video
+2022-11-16 20:55:55,741 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 20:55:55,902 [main] INFO logger_file - User clicked on All Section successfully
+2022-11-16 20:55:58,938 [main] INFO logger_file - user is on Computers section
+2022-11-16 20:55:59,106 [main] INFO logger_file - Accessories options are present in departmentNetworking
+2022-11-16 20:56:02,620 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 20:56:02,800 [main] INFO logger_file - User clicked on All Section successfully
+2022-11-16 20:56:09,387 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 20:56:09,524 [main] INFO logger_file - User clicked on All Section successfully
+2022-11-16 20:56:12,568 [main] INFO logger_file - user is on Sports section
+2022-11-16 20:56:12,733 [main] INFO logger_file - Athletic Clothing options are present in departmentExercise & Fitness
+2022-11-16 20:56:16,655 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 20:56:16,776 [main] INFO logger_file - User clicked on All Section successfully
+2022-11-16 20:56:19,827 [main] INFO logger_file - user is on Automotive section
+2022-11-16 20:56:19,998 [main] INFO logger_file - MotorCycle & Powersports options are present in departmentAutomative Parts & Accessories
+2022-11-16 20:59:05,524 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 20:59:06,363 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-16 20:59:09,636 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-16 20:59:12,744 [main] INFO logger_file - user click on login button
+2022-11-16 20:59:15,790 [main] INFO logger_file - user should be logged in into Account
+2022-11-16 20:59:18,896 [main] INFO logger_file - All Department changed toSmart Home
+2022-11-16 20:59:19,027 [main] INFO logger_file - user entred kasa outdoor smart plug
+2022-11-16 20:59:19,149 [main] INFO logger_file - user clicked on search button
+2022-11-16 20:59:19,421 [main] INFO logger_file - user clicked on item
+2022-11-16 20:59:19,669 [main] INFO logger_file - user selected quantity '2' 
+2022-11-16 20:59:19,781 [main] INFO logger_file - user clicked on Add To Cart
+2022-11-16 20:59:19,837 [main] INFO logger_file - cart icone changed to '2' 
+2022-11-16 20:59:19,983 [main] INFO logger_file - user click on cartButton
+2022-11-16 20:59:20,164 [main] INFO logger_file - user click on proced checkout button
+2022-11-16 20:59:20,379 [main] INFO logger_file - user click on add new address button link
+2022-11-16 20:59:24,849 [main] INFO logger_file - user click on addres button
+2022-11-16 20:59:25,053 [main] INFO logger_file - user click on add payment method
+2022-11-16 20:59:25,708 [main] INFO logger_file - user click on add card button
+2022-11-16 22:14:03,456 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 22:14:04,030 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-16 22:14:07,307 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-16 22:14:10,420 [main] INFO logger_file - user click on login button
+2022-11-16 22:14:13,475 [main] INFO logger_file - user should be logged in into Account
+2022-11-16 22:14:16,595 [main] INFO logger_file - All Department changed toSmart Home
+2022-11-16 22:14:16,765 [main] INFO logger_file - user entred kasa outdoor smart plug
+2022-11-16 22:14:16,855 [main] INFO logger_file - user clicked on search button
+2022-11-16 22:14:17,083 [main] INFO logger_file - user clicked on item
+2022-11-16 22:14:17,387 [main] INFO logger_file - user selected quantity '2' 
+2022-11-16 22:14:17,488 [main] INFO logger_file - user clicked on Add To Cart
+2022-11-16 22:14:17,566 [main] INFO logger_file - cart icone changed to '2' 
+2022-11-16 22:14:17,726 [main] INFO logger_file - user click on cartButton
+2022-11-16 22:14:17,882 [main] INFO logger_file - user click on proced checkout button
+2022-11-16 22:14:18,070 [main] INFO logger_file - user click on add new address button link
+2022-11-16 22:14:22,537 [main] INFO logger_file - user click on addres button
+2022-11-16 22:14:22,721 [main] INFO logger_file - user click on add payment method
+2022-11-16 22:14:23,368 [main] INFO logger_file - user click on add your card button
+2022-11-16 22:15:48,423 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 22:15:49,050 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-16 22:15:52,314 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-16 22:15:55,428 [main] INFO logger_file - user click on login button
+2022-11-16 22:15:58,485 [main] INFO logger_file - user should be logged in into Account
+2022-11-16 22:16:01,603 [main] INFO logger_file - All Department changed toSmart Home
+2022-11-16 22:16:01,748 [main] INFO logger_file - user entred kasa outdoor smart plug
+2022-11-16 22:16:01,838 [main] INFO logger_file - user clicked on search button
+2022-11-16 22:16:02,111 [main] INFO logger_file - user clicked on item
+2022-11-16 22:16:02,401 [main] INFO logger_file - user selected quantity '2' 
+2022-11-16 22:16:02,503 [main] INFO logger_file - user clicked on Add To Cart
+2022-11-16 22:16:02,566 [main] INFO logger_file - cart icone changed to '2' 
+2022-11-16 22:16:02,748 [main] INFO logger_file - user click on cartButton
+2022-11-16 22:16:02,939 [main] INFO logger_file - user click on proced checkout button
+2022-11-16 22:16:03,154 [main] INFO logger_file - user click on add new address button link
+2022-11-16 22:16:07,651 [main] INFO logger_file - user click on addres button
+2022-11-16 22:16:07,818 [main] INFO logger_file - user click on add payment method
+2022-11-16 22:16:08,444 [main] INFO logger_file - user click on add your card button
+2022-11-16 22:17:28,562 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 22:17:29,558 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-16 22:17:32,829 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-16 22:17:35,958 [main] INFO logger_file - user click on login button
+2022-11-16 22:17:39,019 [main] INFO logger_file - user should be logged in into Account
+2022-11-16 22:17:42,152 [main] INFO logger_file - All Department changed toSmart Home
+2022-11-16 22:17:42,293 [main] INFO logger_file - user entred kasa outdoor smart plug
+2022-11-16 22:17:42,399 [main] INFO logger_file - user clicked on search button
+2022-11-16 22:17:42,616 [main] INFO logger_file - user clicked on item
+2022-11-16 22:18:18,094 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 22:18:18,641 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-16 22:18:21,907 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-16 22:18:25,083 [main] INFO logger_file - user click on login button
+2022-11-16 22:18:28,129 [main] INFO logger_file - user should be logged in into Account
+2022-11-16 22:18:31,229 [main] INFO logger_file - All Department changed toSmart Home
+2022-11-16 22:18:31,367 [main] INFO logger_file - user entred kasa outdoor smart plug
+2022-11-16 22:18:31,455 [main] INFO logger_file - user clicked on search button
+2022-11-16 22:18:31,739 [main] INFO logger_file - user clicked on item
+2022-11-16 22:18:32,013 [main] INFO logger_file - user selected quantity '2' 
+2022-11-16 22:18:32,126 [main] INFO logger_file - user clicked on Add To Cart
+2022-11-16 22:18:32,182 [main] INFO logger_file - cart icone changed to '2' 
+2022-11-16 22:18:32,340 [main] INFO logger_file - user click on cartButton
+2022-11-16 22:18:32,490 [main] INFO logger_file - user click on proced checkout button
+2022-11-16 22:18:32,713 [main] INFO logger_file - user click on add new address button link
+2022-11-16 22:18:37,208 [main] INFO logger_file - user click on addres button
+2022-11-16 22:18:37,367 [main] INFO logger_file - user click on add payment method
+2022-11-16 22:18:37,986 [main] INFO logger_file - user click on add your card button
+2022-11-16 22:18:41,102 [main] INFO logger_file - user click on place your order
+2022-11-16 22:18:41,382 [main] INFO logger_file - A Message should display your order placed Thanks
+2022-11-16 22:34:39,631 [main] INFO logger_file - React Appis equal to React App
+2022-11-16 22:34:40,268 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-16 22:34:43,549 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-16 22:34:46,656 [main] INFO logger_file - user click on login button
+2022-11-16 22:34:49,700 [main] INFO logger_file - user should be logged in into Account
+2022-11-16 22:34:52,802 [main] INFO logger_file - All Department changed toSmart Home
+2022-11-16 22:34:52,933 [main] INFO logger_file - user entred kasa outdoor smart plug
+2022-11-16 22:34:53,026 [main] INFO logger_file - user clicked on search button
+2022-11-16 22:34:53,317 [main] INFO logger_file - user clicked on item
+2022-11-16 22:34:53,546 [main] INFO logger_file - user selected quantity '2' 
+2022-11-16 22:34:53,668 [main] INFO logger_file - user clicked on Add To Cart
+2022-11-16 22:34:53,724 [main] INFO logger_file - cart icone changed to '2' 
+2022-11-16 22:34:53,888 [main] INFO logger_file - user click on cartButton
+2022-11-16 22:34:54,064 [main] INFO logger_file - user click on proced checkout button
+2022-11-16 22:34:54,294 [main] INFO logger_file - user click on add new address button link
+2022-11-16 22:34:58,800 [main] INFO logger_file - user click on addres button
+2022-11-16 22:34:58,974 [main] INFO logger_file - user click on add payment method
+2022-11-16 22:34:59,608 [main] INFO logger_file - user click on add your card button
+2022-11-16 22:35:02,719 [main] INFO logger_file - user click on place your order
+2022-11-16 22:35:02,949 [main] INFO logger_file - A Message should display your order placed Thanks
+2022-11-17 10:51:40,724 [main] INFO logger_file - React Appis equal to React App
+2022-11-17 10:51:41,767 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-17 10:51:45,025 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-17 10:51:48,125 [main] INFO logger_file - user click on login button
+2022-11-17 10:51:51,187 [main] INFO logger_file - user should be logged in into Account
+2022-11-17 10:51:54,289 [main] INFO logger_file - All Department changed toSmart Home
+2022-11-17 10:51:54,429 [main] INFO logger_file - user entred kasa outdoor smart plug
+2022-11-17 10:51:54,517 [main] INFO logger_file - user clicked on search button
+2022-11-17 10:51:54,990 [main] INFO logger_file - user clicked on item
+2022-11-17 10:51:55,240 [main] INFO logger_file - user selected quantity '2' 
+2022-11-17 10:51:55,374 [main] INFO logger_file - user clicked on Add To Cart
+2022-11-17 10:51:55,461 [main] INFO logger_file - cart icone changed to '2' 
+2022-11-17 10:51:55,598 [main] INFO logger_file - user click on cartButton
+2022-11-17 10:51:55,757 [main] INFO logger_file - user click on proced checkout button
+2022-11-17 10:51:55,953 [main] INFO logger_file - user click on add new address button link
+2022-11-17 10:52:00,650 [main] INFO logger_file - user click on addres button
+2022-11-17 10:52:00,857 [main] INFO logger_file - user click on add payment method
+2022-11-17 10:52:01,560 [main] INFO logger_file - user click on add your card button
+2022-11-17 10:52:04,677 [main] INFO logger_file - user click on place your order
+2022-11-17 10:52:04,987 [main] INFO logger_file - A Message should display your order placed Thanks
+2022-11-17 12:15:40,016 [main] INFO logger_file - React Appis equal to React App
+2022-11-17 12:15:40,637 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-17 12:15:40,884 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-17 12:15:40,972 [main] INFO logger_file - user click on login button
+2022-11-17 12:15:41,195 [main] INFO logger_file - user should be logged in into Account
+2022-11-17 12:15:41,308 [main] INFO logger_file - user click on order section
+2022-11-17 12:15:41,484 [main] INFO logger_file - user click on first order
+2022-11-17 12:15:41,599 [main] INFO logger_file - user click on cancel the order button
+2022-11-17 12:15:41,694 [main] INFO logger_file - user select cancelation reason
+2022-11-17 12:15:41,780 [main] INFO logger_file - user cancel order
+2022-11-17 12:15:41,942 [main] INFO logger_file - a message should be displayed your order has been cancelled
+2022-11-17 12:16:20,646 [main] INFO logger_file - React Appis equal to React App
+2022-11-17 12:16:21,334 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-17 12:16:21,610 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-17 12:16:21,713 [main] INFO logger_file - user click on login button
+2022-11-17 12:16:22,211 [main] INFO logger_file - user should be logged in into Account
+2022-11-17 12:16:22,354 [main] INFO logger_file - user click on order section
+2022-11-17 12:16:22,719 [main] INFO logger_file - user click on first order
+2022-11-17 12:18:15,043 [main] INFO logger_file - React Appis equal to React App
+2022-11-17 12:18:15,742 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-17 12:18:16,039 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-17 12:18:16,240 [main] INFO logger_file - user click on login button
+2022-11-17 12:18:16,554 [main] INFO logger_file - user should be logged in into Account
+2022-11-17 12:18:16,708 [main] INFO logger_file - user click on order section
+2022-11-17 12:18:16,847 [main] INFO logger_file - user click on first order
+2022-11-17 12:18:16,968 [main] INFO logger_file - user click on cancel the order button
+2022-11-17 12:18:17,072 [main] INFO logger_file - user select cancelation reason
+2022-11-17 12:18:17,173 [main] INFO logger_file - user cancel order
+2022-11-17 12:18:17,268 [main] INFO logger_file - a message should be displayed your order has been cancelled
+2022-11-17 12:55:32,152 [main] INFO logger_file - React Appis equal to React App
+2022-11-17 12:55:32,778 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-17 12:55:33,051 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-17 12:55:33,135 [main] INFO logger_file - user click on login button
+2022-11-17 12:55:33,377 [main] INFO logger_file - user should be logged in into Account
+2022-11-17 12:55:33,471 [main] INFO logger_file - user click on order section
+2022-11-17 12:55:33,644 [main] INFO logger_file - user click on first order
+2022-11-17 12:55:33,758 [main] INFO logger_file - user click on return button
+2022-11-17 12:55:33,835 [main] INFO logger_file - user select item damaged
+2022-11-17 12:55:33,913 [main] INFO logger_file - user select fedx from drop of
+2022-11-17 12:55:34,013 [main] INFO logger_file - user click on return Button
+2022-11-17 12:58:07,666 [main] INFO logger_file - React Appis equal to React App
+2022-11-17 12:58:08,291 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-17 12:58:08,544 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-17 12:58:08,648 [main] INFO logger_file - user click on login button
+2022-11-17 12:58:08,884 [main] INFO logger_file - user should be logged in into Account
+2022-11-17 12:58:08,993 [main] INFO logger_file - user click on order section
+2022-11-17 12:58:09,167 [main] INFO logger_file - user click on first order
+2022-11-17 12:58:46,029 [main] INFO logger_file - React Appis equal to React App
+2022-11-17 12:58:46,664 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-17 12:58:46,905 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-17 12:58:46,985 [main] INFO logger_file - user click on login button
+2022-11-17 12:58:47,265 [main] INFO logger_file - user should be logged in into Account
+2022-11-17 12:58:47,358 [main] INFO logger_file - user click on order section
+2022-11-17 12:58:47,527 [main] INFO logger_file - user click on first order
+2022-11-17 12:58:47,626 [main] INFO logger_file - user click on return button
+2022-11-17 12:58:47,727 [main] INFO logger_file - user select item damaged
+2022-11-17 12:58:47,818 [main] INFO logger_file - user select fedx from drop of
+2022-11-17 12:58:47,913 [main] INFO logger_file - user click on return Button
+2022-11-17 12:58:48,063 [main] INFO logger_file - a message should be displayed your order has been returned
+2022-11-17 13:42:25,519 [main] INFO logger_file - React Appis equal to React App
+2022-11-17 13:42:26,162 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-17 13:42:26,399 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-17 13:42:26,480 [main] INFO logger_file - user click on login button
+2022-11-17 13:42:26,719 [main] INFO logger_file - user should be logged in into Account
+2022-11-17 13:42:26,809 [main] INFO logger_file - user click on order section
+2022-11-17 13:42:26,989 [main] INFO logger_file - user click on first order
+2022-11-17 13:42:27,082 [main] INFO logger_file - user click on reviewBtn
+2022-11-17 13:42:27,339 [main] INFO logger_file - user write review healine and review text
+2022-11-17 13:42:27,462 [main] INFO logger_file - user click on review button
+2022-11-17 13:44:07,847 [main] INFO logger_file - React Appis equal to React App
+2022-11-17 13:44:08,473 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-17 13:44:08,713 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-17 13:44:08,793 [main] INFO logger_file - user click on login button
+2022-11-17 13:44:09,039 [main] INFO logger_file - user should be logged in into Account
+2022-11-17 13:44:09,135 [main] INFO logger_file - user click on order section
+2022-11-17 13:44:09,312 [main] INFO logger_file - user click on first order
+2022-11-17 13:44:09,423 [main] INFO logger_file - user click on reviewBtn
+2022-11-17 13:44:09,714 [main] INFO logger_file - user write review healine and review text
+2022-11-17 13:44:09,815 [main] INFO logger_file - user click on review button
+2022-11-17 13:49:05,725 [main] INFO logger_file - React Appis equal to React App
+2022-11-17 13:49:06,383 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-17 13:49:06,616 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-17 13:49:06,712 [main] INFO logger_file - user click on login button
+2022-11-17 13:49:06,961 [main] INFO logger_file - user should be logged in into Account
+2022-11-17 13:49:07,044 [main] INFO logger_file - user click on order section
+2022-11-17 13:49:07,306 [main] INFO logger_file - user click on first order
+2022-11-17 13:49:07,432 [main] INFO logger_file - user click on reviewBtn
+2022-11-17 13:49:07,745 [main] INFO logger_file - user write review healine and review text
+2022-11-17 13:49:07,824 [main] INFO logger_file - user click on review button
+2022-11-17 13:49:56,903 [main] INFO logger_file - React Appis equal to React App
+2022-11-17 13:49:57,545 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-17 13:49:57,791 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-17 13:49:57,872 [main] INFO logger_file - user click on login button
+2022-11-17 13:49:58,114 [main] INFO logger_file - user should be logged in into Account
+2022-11-17 13:49:58,226 [main] INFO logger_file - user click on order section
+2022-11-17 13:49:58,393 [main] INFO logger_file - user click on first order
+2022-11-17 13:49:58,505 [main] INFO logger_file - user click on reviewBtn
+2022-11-17 13:49:58,803 [main] INFO logger_file - user write review healine and review text
+2022-11-17 13:49:58,883 [main] INFO logger_file - user click on review button
+2022-11-17 13:53:49,044 [main] INFO logger_file - React Appis equal to React App
+2022-11-17 13:54:31,836 [main] INFO logger_file - React Appis equal to React App
+2022-11-17 13:54:32,572 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-17 13:54:32,828 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-17 13:54:32,914 [main] INFO logger_file - user click on login button
+2022-11-17 13:54:33,137 [main] INFO logger_file - user should be logged in into Account
+2022-11-17 13:54:33,232 [main] INFO logger_file - user click on order section
+2022-11-17 13:54:33,418 [main] INFO logger_file - user click on first order
+2022-11-17 13:54:33,525 [main] INFO logger_file - user click on reviewBtn
+2022-11-17 13:54:33,828 [main] INFO logger_file - user write review healine and review text
+2022-11-17 13:54:33,914 [main] INFO logger_file - user click on review button
+2022-11-17 13:56:35,704 [main] INFO logger_file - React Appis equal to React App
+2022-11-17 13:56:36,457 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-17 13:56:36,753 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-17 13:56:36,983 [main] INFO logger_file - user click on login button
+2022-11-17 13:56:37,271 [main] INFO logger_file - user should be logged in into Account
+2022-11-17 13:56:37,467 [main] INFO logger_file - user click on order section
+2022-11-17 13:56:37,596 [main] INFO logger_file - user click on first order
+2022-11-17 13:56:37,739 [main] INFO logger_file - user click on reviewBtn
+2022-11-17 13:56:38,043 [main] INFO logger_file - user write review healine and review text
+2022-11-17 13:56:38,148 [main] INFO logger_file - user click on review button
+2022-11-17 15:35:59,379 [main] INFO logger_file - React Appis equal to React App
+2022-11-17 15:36:00,016 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-17 15:36:00,265 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-17 15:36:00,340 [main] INFO logger_file - user click on login button
+2022-11-17 15:36:00,561 [main] INFO logger_file - user should be logged in into Account
+2022-11-17 15:36:00,651 [main] INFO logger_file - user click on order section
+2022-11-17 15:36:00,810 [main] INFO logger_file - user click on first order
+2022-11-17 15:36:00,905 [main] INFO logger_file - user click on reviewBtn
+2022-11-17 15:36:01,162 [main] INFO logger_file - user write review healine and review text
+2022-11-17 15:36:01,252 [main] INFO logger_file - user click on review button
+2022-11-17 15:36:04,289 [main] INFO logger_file - a message should be dispalyed your rewiew was added successfully
+2022-11-17 20:12:15,271 [main] INFO logger_file - React Appis equal to React App
+2022-11-17 20:12:15,940 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-17 20:12:19,186 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-17 20:12:22,286 [main] INFO logger_file - user click on login button
+2022-11-17 20:12:25,338 [main] INFO logger_file - user should be logged in into Account
+2022-11-17 20:13:46,528 [main] INFO logger_file - React Appis equal to React App
+2022-11-17 20:13:47,207 [main] INFO logger_file - user clicked on signin option successfully
+2022-11-17 20:13:47,451 [main] INFO logger_file - user entered emailshaheera.gh@gmail.comand passwordUsa@1414
+2022-11-17 20:13:47,531 [main] INFO logger_file - user click on login button
+2022-11-17 20:13:47,779 [main] INFO logger_file - user should be logged in into Account
+2022-11-17 20:13:47,881 [main] INFO logger_file - user click on order section
+2022-11-17 20:13:48,077 [main] INFO logger_file - user click on first order
+2022-11-17 20:13:48,220 [main] INFO logger_file - user click on reviewBtn
+2022-11-17 20:13:48,626 [main] INFO logger_file - user write review healine and review text
+2022-11-17 20:13:48,756 [main] INFO logger_file - user click on review button
+2022-11-17 20:13:51,785 [main] INFO logger_file - a message should be dispalyed your rewiew was added successfully
