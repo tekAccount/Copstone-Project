@@ -12,7 +12,7 @@ import static io.cucumber.junit.CucumberOptions.SnippetType.CAMELCASE;
 
 @CucumberOptions(
 
-        tags = "@Review",
+        tags = "@PlaceAnOrder",
 
         features = ("src/test/resources/features"),
 

@@ -56,6 +56,11 @@ public class HomeSteps extends CommonUtility {
             Assert.assertTrue(isElementDisplayed(factory.homepage().computer));
             logger.info("user is on Computers section");
             break;
+            
+        case "Smart Home":
+            Assert.assertTrue(isElementDisplayed(factory.homepage().smarthome));
+            logger.info("user is on Smart Home section");
+            break;
         case "Sports":
             Assert.assertTrue(isElementDisplayed(factory.homepage().Sports));
             logger.info("user is on Sports section");
@@ -70,8 +75,6 @@ public class HomeSteps extends CommonUtility {
         	return this.department = department;
 	    
 	}
-
-
 
 	   @Then("below options are present in department")
 	    public void belowOptionsArePresentInDepartment(DataTable dataTable) {
@@ -94,6 +97,16 @@ public class HomeSteps extends CommonUtility {
 	            Assert.assertEquals(Networking, department.get(0).get(1));
 	            logger.info(Accessories + " options are present in department" + Networking);
 	            break;
+	            
+	        case "Smart Home":
+                click(factory.homepage().smarthome);
+                String SmartHomeLightning = getText(factory.homepage().smarthomelightning);
+                String PlugsandOutlets = getText(factory.homepage().plugsandoutlets);
+                Assert.assertEquals(SmartHomeLightning, department.get(0).get(0));
+                Assert.assertEquals(PlugsandOutlets, department.get(0).get(1));
+                logger.info(SmartHomeLightning + " options are present in department" + PlugsandOutlets);
+                break;
+	            
 	        case "Sports":
 	            click(factory.homepage().Sports);
 	            String AthleticClothing = getText(factory.homepage().AthleticClothing);
@@ -208,7 +221,7 @@ public class HomeSteps extends CommonUtility {
    
    @And("User click Add a new address link for shipping address")
    public void userClickAddANewAddressLinkForShippingAddreSS() {
-	   click(factory.homepage().addAddressBtn);
+	   click(factory.homepage().addAdressbtn);
 	   logger.info("user click on add new address button link");
 	   
    }
@@ -228,30 +241,32 @@ public class HomeSteps extends CommonUtility {
 	   
  }
    
-//   @And("User click Add Your Address button")
-//   public void userClickAddYourAddrEsssButton() {
-//	   click(factory.homepage().addAddressBtn);
-//	   logger.info("user click on add your address button");
-//	   
-//   }
+   @And("User click Add Your Address  button")
+   public void userClickAddYourAddrEsssButtoN() {
+	   click(factory.homepage().secondaddaddress);
+	   logger.info("user click on add your address button");
+	    
+   }
+   
+   
    @And("User click Add a credit card or Debit Card for Payment method")
    public void userClickAddACreditCardOrDebitCardForPaymentMethoD() {
 	   click(factory.homepage().addPaymentBtn);
 	   logger.info("user click on add payment method");
 	   
 }
-//   @And("User fill Debit or credit card information")
-//   public void userFillDebitOrCreditCardInformationByBelowInformation(DataTable data) {
-//	   
-//	   List<Map<String, String>> debitorcreditinformation = data.asMaps(String.class, String.class);
-//		sendText(factory.homepage().CardInput, debitorcreditinformation.get(0).get("cardNumber"));
-//		sendText(factory.homepage().NameInput, debitorcreditinformation.get(0).get("nameOnCard"));
-//		selectByVisibleText(factory.homepage().MonthInput, debitorcreditinformation.get(0).get("expirationMonth"));
-//		selectByVisibleText(factory.homepage().YearInput, debitorcreditinformation.get(0).get("expirationYear"));
-//		sendText(factory.homepage().SecurityInput, debitorcreditinformation.get(0).get("securityCode"));
-//		
+   @And("User fill Debit or credit card  information")
+   public void userFillDebitOrCreditCardInformationByBelowinfoo(DataTable data) {
 	   
- //}
+	   List<Map<String, String>> cardinformation = data.asMaps(String.class, String.class);
+		sendText(factory.homepage().CardInput, cardinformation.get(0).get("cardNumber"));
+		sendText(factory.homepage().NameInput, cardinformation.get(0).get("nameOnCard"));
+		selectByVisibleText(factory.homepage().MonthInput, cardinformation.get(0).get("expirationMonth"));
+		selectByVisibleText(factory.homepage().YearInput, cardinformation.get(0).get("expirationYear"));
+		sendText(factory.homepage().SecurityInput, cardinformation.get(0).get("securityCode"));
+		
+	   
+ }
    @And("User click on Add your card  button")
    public void userClickOnAddYourCardButtonbelow() {
 	   click(factory.homepage().AddYourCardbtn);
@@ -271,13 +286,6 @@ public class HomeSteps extends CommonUtility {
 	   logger.info("A Message should display your order placed Thanks");
 	   
    }
-   
-   
-   
-   
-   
-   
-   
    
    
    
@@ -330,7 +338,7 @@ public class HomeSteps extends CommonUtility {
    @Then("the cart icon quantity should CHANGE to {string}")
    public void the_cart_icon_quantity_should_change_to(String fivee) {
 	   Assert.assertTrue(isElementDisplayed(factory.homepage().cartBtn,fivee));
-       logger.info("cart icone changed to '2' ");
+       logger.info("cart icone changed to '5' ");
    
    }
    

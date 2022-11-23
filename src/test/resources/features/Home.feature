@@ -27,7 +27,7 @@ Feature: Retail Home page
   @AddItemToCart
   Scenario: Verify User can add an item to cart
     When User click on Sign in option
-    And user enter email 'shaheera.gh@gmail.com' and password 'Usa@1414'
+    And user enter email 'shaheera.gh@gmail.com' and password 'Usa@16164'
     And User click on Login button
     And User should be logged in into account
     And User change the category to 'Smart Home'
@@ -41,7 +41,7 @@ Feature: Retail Home page
   @PlaceAnOrder
   Scenario: Verify User can place an order without Shipping address and payment Method on file
     When User click on Sign in option
-    And User enter email 'shaheera.gh@gmail.com' and password 'Usa@1414'
+    And User enter email 'shaheera.gh@gmail.com' and password 'Usa@16164'
     And User click on login button
     And User should be logged in into Account
     And User change the category to 'Smart Home'
@@ -57,11 +57,11 @@ Feature: Retail Home page
     And User fill new address form with below information
       | country     | fullName | phoneNumber | streetAddress | apt | city       | state  | zipCode |
       | Afghanistan | Eeraa    |  1234567898 | Macroyan      | 230 | lesemaryam | Parwan |   22193 |
-    And User click Add Your Address button
+    And User click Add Your Address  button
     And User click Add a credit card or Debit Card for Payment method
-    And User fill Debit or credit card information
+    And User fill Debit or credit card  information
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 1234557990798765 | sharbanoo  |              11 |           2022 |          786 |
+      | 1234557990795764 | sharbanoo  |              11 |           2022 |          786 |
     And User click on Add your card  button
     And User click on Place Your  Order
     Then a message should be displayed Order Placed,  Thanks
@@ -69,7 +69,7 @@ Feature: Retail Home page
   @secondItemAddToCart
   Scenario: Verify User can place an order with Shipping address and payment Method on file
     When User click on Sign in option
-    And User enter email 'shaheera.gh@gmail.com' and password 'Usa@1414'
+    And User enter email 'shaheera.gh@gmail.com' and password 'Usa@16164'
     And User click on login button
     And User should be logged in into Account
     And User change the category To 'Electronics'

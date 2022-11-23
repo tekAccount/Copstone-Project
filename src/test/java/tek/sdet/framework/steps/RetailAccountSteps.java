@@ -29,10 +29,9 @@ public class RetailAccountSteps extends CommonUtility {
 	public void userUpdateNameAndPhone(String name, String phone) {
 		clearTextUsingSendKeys(factory.AccountPage().nameinput);
 		sendText(factory.AccountPage().nameinput, name);
+		clearTextUsingSendKeys(factory.AccountPage().phoneinput);
 		sendText(factory.AccountPage().phoneinput, phone);
 		logger.info("user entered name and password");
-
-		slowDown();
 
 	}
 
@@ -41,16 +40,17 @@ public class RetailAccountSteps extends CommonUtility {
 		click(factory.AccountPage().updateButton);
 		logger.info("user can click on update option");
 
-		slowDown();
+		
 
 	}
 
 	@Then("user profile information should be updated")
 	public void userProfileShouldBeUpdated() {
-		Assert.assertTrue(isElementDisplayed(factory.AccountPage().account));
+		slowDown();
+		Assert.assertTrue(isElementDisplayed(factory.AccountPage().Message));
 		logger.info("user profile updated");
 
-		slowDown();
+		
 
 	}
 
@@ -75,7 +75,8 @@ public class RetailAccountSteps extends CommonUtility {
 
 	@Then("a message should be displayed ‘Password Updated Successfully’")
 	public void messageShouldBeDisplayedPasswordUpdated() {
-		Assert.assertTrue(isElementDisplayed(factory.AccountPage().account));
+		slowDown();
+		Assert.assertTrue(isElementDisplayed(factory.AccountPage().msgpassword));
 		logger.info("password Updated Successfully");
 
 	}
@@ -108,7 +109,8 @@ public class RetailAccountSteps extends CommonUtility {
 
 	@Then("a message should be displayed ‘Payment Method added successfully’")
 	public void amessageShouldBeDisplayed() {
-		Assert.assertTrue(isElementDisplayed(factory.AccountPage().account));
+		slowDown();
+		Assert.assertTrue(isElementDisplayed(factory.AccountPage().PaymentMethodAddedSuccessfully));
 		logger.info("payment method added successfully");
 
 	}
@@ -161,7 +163,8 @@ public class RetailAccountSteps extends CommonUtility {
 
 	@Then("a message should be displayed ‘Payment Method updated Successfully’")
 	public void amessageDisplayedUpdateSuccessfully() {
-		Assert.assertTrue(isElementDisplayed(factory.AccountPage().account));
+		slowDown();
+		Assert.assertTrue(isElementDisplayed(factory.AccountPage().PaymentMethodupdatedSuccessfully));
 		logger.info("information successfuly updated");
 
 	}
@@ -176,9 +179,10 @@ public class RetailAccountSteps extends CommonUtility {
 	
 	@Then("payment details should be removed")
 	public void paymentDetialsShouldBeRemoved() {
-		Assert.assertTrue(isElementDisplayed(factory.AccountPage().account));
-		logger.info("payemtn detials removed");
 		slowDown();
+		//Assert.assertTrue(isElementDisplayed(factory.AccountPage().account); There is no message to validate.
+		logger.info("payemtn detials removed");
+		
 		}
 	
 	@And("User click on Add address option")
@@ -211,7 +215,8 @@ public class RetailAccountSteps extends CommonUtility {
 	
 	@Then("a message should be displayed ‘Address Added Successfully’")
 	public void aMessageShouldDispayedAddressAddedSuccessfully() {
-		Assert.assertTrue(isElementDisplayed(factory.AccountPage().account));
+		slowDown();
+		Assert.assertTrue(isElementDisplayed(factory.AccountPage().AddressAddedSuccessfully));
 		logger.info("user should added address successfully");
 	}
 	
@@ -252,7 +257,8 @@ public class RetailAccountSteps extends CommonUtility {
 	
 	@Then("a message should be displayed Address Updated Successfully")
 	public void aMessageShouldBeDisplayedAddressUpdatedSuccessfully() {
-		Assert.assertTrue(isElementDisplayed(factory.AccountPage().account));
+		slowDown();
+		Assert.assertTrue(isElementDisplayed(factory.AccountPage().AddressUpdatedSuccessfully));
 		logger.info("your new address updated");
 		
 	}
@@ -265,7 +271,7 @@ public class RetailAccountSteps extends CommonUtility {
 	
 	@Then("Address details should be removed")
 	public void userRemovedOption() {
-		Assert.assertTrue(isElementDisplayed(factory.AccountPage().account));
+		//Assert.assertTrue(isElementDisplayed(factory.AccountPage().account));There is no message to validate.
 		logger.info("user removed address");
 	}
 }

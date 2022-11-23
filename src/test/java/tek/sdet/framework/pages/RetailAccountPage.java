@@ -20,16 +20,17 @@ public class RetailAccountPage extends BaseSetup {
 	@FindBy( id ="nameInput")
 	public WebElement nameinput;
 	
-	
-	
-	@FindBy( id ="phoneNumberInput")
+	@FindBy( id ="personalPhoneInput")
 	public WebElement phoneinput;
 	
 	@FindBy(id = "personalUpdateBtn")
 	public WebElement updateButton;
 	
-	@FindBy(id = "accountLink")
-	public WebElement account;
+	@FindBy(xpath="//div[text()=\"Personal Information Updated Successfully\"]")
+    public WebElement Message;
+
+	@FindBy(xpath="//div[text()=\"Password Updated Successfully\"]")
+    public WebElement msgpassword;
 	
 	@FindBy(id = "previousPasswordInput")
 	public WebElement previousPassword;
@@ -64,6 +65,12 @@ public class RetailAccountPage extends BaseSetup {
 	@FindBy(xpath ="//button[text()='Add Your card']")
 	public WebElement paymentsubmitBtn;
 	
+	@FindBy(xpath="//div[text()=\"Payment Method added sucessfully\"]")
+    public WebElement PaymentMethodAddedSuccessfully;
+	
+	
+	
+	
 	@FindBy(css="p.account__payment__sub-text")
     public WebElement SelectedpaymentCard;
 	
@@ -81,6 +88,13 @@ public class RetailAccountPage extends BaseSetup {
 	
 	@FindBy(xpath= "//button[text()='Update Your Card']")
 	public WebElement updatecard;
+	
+	@FindBy(xpath="//div[text()=\"Payment Method updated Successfully\"]")
+    public WebElement PaymentMethodupdatedSuccessfully;
+	
+	
+	
+	
 	
 	@FindBy(xpath="//button[text()='remove']")
 	public WebElement remove;
@@ -115,11 +129,19 @@ public class RetailAccountPage extends BaseSetup {
 	@FindBy(id="addressBtn")
 	public WebElement Addaddress;
 	
+	@FindBy(xpath="//div[text()=\"Address Added Successfully\"]")
+    public WebElement AddressAddedSuccessfully;
+	
 	@FindBy(xpath="//button[text()='Edit']")
 	public WebElement editaddress;
 	
 	@FindBy(id ="addressBtn")
 	public WebElement updateyouraddress;
+	
+	@FindBy(xpath="//div[text()=\"Address Updated Successfully\"]")
+    public WebElement AddressUpdatedSuccessfully;
+	
+	
 	
 	@FindBy(xpath="//button[text()='Remove']")
 	public WebElement removeaddress;

@@ -58,6 +58,14 @@ public class RetailHomePage  extends BaseSetup{
     @FindBy(xpath="//span[text()='Networking']")
     public WebElement Networking;
     
+    
+    @FindBy(xpath="//span[text()='Smart Home Lightning']")
+    public WebElement smarthomelightning;
+    
+    @FindBy(xpath="//span[text()='Plugs and Outlets']")
+    public WebElement plugsandoutlets;
+    
+    
     @FindBy(xpath="//span[text()='Athletic Clothing']")
     public WebElement AthleticClothing;
     
@@ -111,7 +119,7 @@ public class RetailHomePage  extends BaseSetup{
     
     
     @FindBy(id="addAddressBtn")
-    public WebElement addAddressBtn;
+    public WebElement addAdressbtn;
     
     @FindBy(id="countryDropdown")
     public WebElement countryDropdown;
@@ -137,9 +145,8 @@ public class RetailHomePage  extends BaseSetup{
     @FindBy(id="zipCodeInput")
     public WebElement ZipCode;
     
-    @FindBy(id="addressBtn")
-    public WebElement addressBtn;
-    
+    @FindBy(xpath="//button[text()='Add Your Address']")  
+    public WebElement secondaddaddress;
     
     @FindBy(id="addPaymentBtn")
     public WebElement addPaymentBtn;

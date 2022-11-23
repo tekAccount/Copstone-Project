@@ -3,7 +3,7 @@ Feature: Retail Account feature
   Background: 
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'shaheera.gh@gmail.com' and password 'Usa@1414'
+    And User enter email 'shaheera.gh@gmail.com' and password 'Usa@16164'
     And User click on login button
     And User should be logged in into Account
     When User click on Account option
@@ -11,7 +11,7 @@ Feature: Retail Account feature
   @UpdatePassword
   Scenario: Verify User can update Profile Information
     When User click on Account option
-    And User update Name 'Ahmad' and Phone '5715676789'
+    And User update Name 'shuhuraj' and Phone '5715676782'
     And User click on Update button
     Then user profile information should be updated
 
@@ -19,16 +19,16 @@ Feature: Retail Account feature
   Scenario: Verify User can Update password
     And User enter below information
       | previousPassword | newPassword | confirmPassword |
-      | Usa@1414         | Usa@1515    | Usa@1515        |
+      | Usa@1616         | Usa@16164   | Usa@16164       |
     And User click on Change Password button
     Then a message should be displayed ‘Password Updated Successfully’
 
-  @Payment @UpdateCard
+  @Payment
   Scenario: Verify User can add a payment method
     And User click on Add a payment method link
     And User fill Debit or credit card information
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 1234567899876545 | karimi     |              11 |           2022 |          498 |
+      | 1234567899876546 | karimi     |              11 |           2022 |          498 |
     And User click on Add your card button
     Then a message should be displayed ‘Payment Method added successfully’
 
@@ -38,7 +38,7 @@ Feature: Retail Account feature
     And User click on Edit option of card section
     And user edit information with below data
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 1234567891234569 | shaheera   |              11 |           2026 |          123 |
+      | 1234567891234568 | shaheera   |              11 |           2026 |          123 |
     And user click on Update Your Card button
     Then a message should be displayed ‘Payment Method updated Successfully’
 
@@ -52,8 +52,8 @@ Feature: Retail Account feature
   Scenario: Verify User can add an Address
     And User click on Add address option
     And user fill address form with below information
-      | country     | fullName | phoneNumber | streetAddress | apt | city        | state | zipCode |
-      | Afghanistan | shaheera |  9876543210 | 2nd           | 412 | khair khana | Kabul |   22191 |
+      | country     | fullName    | phoneNumber | streetAddress | apt | city        | state | zipCode |
+      | Afghanistan | shaheerajan |  9876543210 | 2nd           | 412 | khair khana | Kabul |   22191 |
     And User click Add Your Address button
     Then a message should be displayed ‘Address Added Successfully’
 
@@ -61,8 +61,8 @@ Feature: Retail Account feature
   Scenario: Verify User can edit an Address added on account
     And User click on edit address option
     And user fill new address form with below information
-      | country     | fullName | phoneNumber | streetAddress | apt | city        | state | zipCode |
-      | Afghanistan | zarif    |  9876543210 | 3nd           | 430 | khair khana | Kabul |   22191 |
+      | country     | fullName | phoneNumber | streetAddress | apt | city       | state | zipCode |
+      | Afghanistan | zarif    |  9876543210 | 3nd           | 430 | shar khana | Kabul |   22191 |
     And User click update Your Address button
     Then a message should be displayed Address Updated Successfully
 
